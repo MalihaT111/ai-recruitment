@@ -1,0 +1,7 @@
+# Ignore Colab + Jupyter temp dirs
+.ipynb_checkpoints/
+.colab/
+
+# Ignore OS/editor junk
+.DS_Store
+Thumbs.db
