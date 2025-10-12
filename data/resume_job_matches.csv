@@ -1,0 +1,2485 @@
+ResumeIndex,ResumeDomain,MatchedJobDomain,Similarity
+0,HR & Operations,Finance & Accounting,0.670644
+1,HR & Operations,Finance & Accounting,0.6984621
+2,HR & Operations,Finance & Accounting,0.7177
+3,Healthcare,Finance & Accounting,0.74590087
+4,HR & Operations,Finance & Accounting,0.6521207
+5,HR & Operations,Finance & Accounting,0.7144468
+6,HR & Operations,Finance & Accounting,0.6656965
+7,HR & Operations,Finance & Accounting,0.690151
+8,HR & Operations,Finance & Accounting,0.72763157
+9,HR & Operations,Finance & Accounting,0.6781758
+10,HR & Operations,Finance & Accounting,0.70947236
+11,HR & Operations,Finance & Accounting,0.7057823
+12,HR & Operations,Finance & Accounting,0.72848034
+13,HR & Operations,Finance & Accounting,0.6577852
+14,HR & Operations,Finance & Accounting,0.67890614
+15,Other Services,Finance & Accounting,0.7403343
+16,HR & Operations,Finance & Accounting,0.69669574
+17,HR & Operations,Finance & Accounting,0.6770195
+18,HR & Operations,Finance & Accounting,0.6764858
+19,HR & Operations,Finance & Accounting,0.6568841
+20,HR & Operations,Finance & Accounting,0.70896006
+21,HR & Operations,Finance & Accounting,0.68309474
+22,HR & Operations,Finance & Accounting,0.6676909
+23,HR & Operations,Finance & Accounting,0.6210004
+24,HR & Operations,Finance & Accounting,0.65334284
+25,HR & Operations,Finance & Accounting,0.6415543
+26,HR & Operations,Finance & Accounting,0.6368183
+27,HR & Operations,Finance & Accounting,0.63504267
+28,HR & Operations,Finance & Accounting,0.7255297
+29,HR & Operations,Finance & Accounting,0.7552387
+30,HR & Operations,Finance & Accounting,0.6741708
+31,HR & Operations,Finance & Accounting,0.7047547
+32,HR & Operations,Finance & Accounting,0.6751765
+33,HR & Operations,Finance & Accounting,0.6552112
+34,HR & Operations,Finance & Accounting,0.6125686
+35,HR & Operations,Finance & Accounting,0.6640779
+36,HR & Operations,Finance & Accounting,0.6702328
+37,HR & Operations,Finance & Accounting,0.67174757
+38,HR & Operations,Finance & Accounting,0.7921596
+39,HR & Operations,Finance & Accounting,0.6549742
+40,HR & Operations,Finance & Accounting,0.66327214
+41,HR & Operations,Finance & Accounting,0.6758538
+42,HR & Operations,Finance & Accounting,0.7217872
+43,HR & Operations,Finance & Accounting,0.72248733
+44,HR & Operations,Finance & Accounting,0.6682993
+45,HR & Operations,Finance & Accounting,0.72165346
+46,HR & Operations,Finance & Accounting,0.6580442
+47,HR & Operations,Finance & Accounting,0.74850583
+48,HR & Operations,Finance & Accounting,0.6657526
+49,HR & Operations,Finance & Accounting,0.6388339
+50,HR & Operations,Finance & Accounting,0.56247824
+51,HR & Operations,Finance & Accounting,0.69998807
+52,HR & Operations,Finance & Accounting,0.6231649
+53,HR & Operations,Finance & Accounting,0.7072251
+54,HR & Operations,Finance & Accounting,0.7424308
+55,HR & Operations,Finance & Accounting,0.6408152
+56,HR & Operations,Finance & Accounting,0.6577095
+57,HR & Operations,Finance & Accounting,0.70236504
+58,HR & Operations,Finance & Accounting,0.61971307
+59,Other Services,Finance & Accounting,0.68390876
+60,HR & Operations,Finance & Accounting,0.6219508
+61,HR & Operations,Finance & Accounting,0.6489625
+62,HR & Operations,Finance & Accounting,0.65982634
+63,HR & Operations,Finance & Accounting,0.6558863
+64,HR & Operations,Finance & Accounting,0.6333859
+65,HR & Operations,Finance & Accounting,0.67167807
+66,HR & Operations,Finance & Accounting,0.6931151
+67,HR & Operations,Finance & Accounting,0.6782805
+68,HR & Operations,Finance & Accounting,0.6337435
+69,HR & Operations,Finance & Accounting,0.7199012
+70,HR & Operations,Finance & Accounting,0.63657767
+71,HR & Operations,Finance & Accounting,0.7276392
+72,HR & Operations,Finance & Accounting,0.6677544
+73,HR & Operations,Finance & Accounting,0.6567563
+74,HR & Operations,Finance & Accounting,0.7390566
+75,HR & Operations,Finance & Accounting,0.6810412
+76,HR & Operations,Finance & Accounting,0.71054196
+77,HR & Operations,Finance & Accounting,0.66464806
+78,HR & Operations,Finance & Accounting,0.68681777
+79,HR & Operations,Finance & Accounting,0.6569228
+80,HR & Operations,Finance & Accounting,0.6787977
+81,HR & Operations,Finance & Accounting,0.6775151
+82,HR & Operations,Finance & Accounting,0.7069869
+83,HR & Operations,Finance & Accounting,0.6742003
+84,HR & Operations,Finance & Accounting,0.7295531
+85,HR & Operations,Finance & Accounting,0.6163404
+86,HR & Operations,Finance & Accounting,0.7239534
+87,HR & Operations,Finance & Accounting,0.72335124
+88,HR & Operations,Finance & Accounting,0.58902436
+89,HR & Operations,Finance & Accounting,0.6607975
+90,HR & Operations,Finance & Accounting,0.6913753
+91,HR & Operations,Finance & Accounting,0.7071547
+92,HR & Operations,Finance & Accounting,0.65475214
+93,HR & Operations,Finance & Accounting,0.67007864
+94,HR & Operations,Finance & Accounting,0.7376127
+95,HR & Operations,Finance & Accounting,0.65885556
+96,Healthcare,Finance & Accounting,0.61155105
+97,HR & Operations,Finance & Accounting,0.6993232
+98,HR & Operations,Finance & Accounting,0.68220556
+99,HR & Operations,Finance & Accounting,0.6930324
+100,HR & Operations,Finance & Accounting,0.6006499
+101,HR & Operations,Finance & Accounting,0.66163737
+102,HR & Operations,Finance & Accounting,0.7447852
+103,HR & Operations,Finance & Accounting,0.7866814
+104,HR & Operations,Finance & Accounting,0.65604043
+105,HR & Operations,Finance & Accounting,0.6861953
+106,HR & Operations,Finance & Accounting,0.71199673
+107,HR & Operations,Finance & Accounting,0.7246139
+108,HR & Operations,Finance & Accounting,0.71645445
+109,HR & Operations,Finance & Accounting,0.72153556
+110,Manufacturing & Construction,Finance & Accounting,0.69035155
+111,Creative & Design,Creative & Design,0.7420404
+112,Creative & Design,Creative & Design,0.7074877
+113,Creative & Design,Creative & Design,0.5683027
+114,Creative & Design,Creative & Design,0.74516565
+115,Creative & Design,Creative & Design,0.7111226
+116,Education,Tech & IT,0.7775037
+117,Creative & Design,Finance & Accounting,0.5912929
+118,Manufacturing & Construction,Creative & Design,0.5369127
+119,Manufacturing & Construction,Finance & Accounting,0.61479235
+120,Tech & IT,Tech & IT,0.7315864
+121,Other Services,Finance & Accounting,0.5352403
+122,Healthcare,Creative & Design,0.61312425
+123,Education,Creative & Design,0.67314065
+124,Tech & IT,Tech & IT,0.83754706
+125,Education,Creative & Design,0.5783631
+126,Manufacturing & Construction,Tech & IT,0.6872932
+127,Healthcare,Finance & Accounting,0.55507624
+128,Tech & IT,Tech & IT,0.7850896
+129,Manufacturing & Construction,Finance & Accounting,0.7155715
+130,Creative & Design,Creative & Design,0.64390826
+131,Creative & Design,Creative & Design,0.7796589
+132,Healthcare,Finance & Accounting,0.63040316
+133,Creative & Design,Creative & Design,0.4253723
+134,Creative & Design,Creative & Design,0.6922931
+135,Manufacturing & Construction,Creative & Design,0.70152175
+136,Other Services,Finance & Accounting,0.49251688
+137,Tech & IT,Tech & IT,0.8102092
+138,Creative & Design,Creative & Design,0.5692264
+139,Manufacturing & Construction,Creative & Design,0.65752494
+140,Creative & Design,Creative & Design,0.6984484
+141,Creative & Design,Creative & Design,0.78302765
+142,Manufacturing & Construction,Finance & Accounting,0.63891816
+143,Creative & Design,Creative & Design,0.6184297
+144,Manufacturing & Construction,Finance & Accounting,0.6975852
+145,Creative & Design,Creative & Design,0.7284697
+146,Creative & Design,Creative & Design,0.7045211
+147,Manufacturing & Construction,Creative & Design,0.726746
+148,Education,Finance & Accounting,0.67594576
+149,Other Services,Finance & Accounting,0.64240587
+150,Creative & Design,Finance & Accounting,0.72452193
+151,Creative & Design,Creative & Design,0.76922435
+152,Creative & Design,Creative & Design,0.6089188
+153,Other Services,Creative & Design,0.562018
+154,Education,Finance & Accounting,0.6880166
+155,Manufacturing & Construction,Creative & Design,0.6393145
+156,Manufacturing & Construction,Creative & Design,0.7223917
+157,Creative & Design,Creative & Design,0.6799292
+158,Manufacturing & Construction,Tech & IT,0.5779136
+159,Creative & Design,Finance & Accounting,0.64679176
+160,Other Services,Finance & Accounting,0.579531
+161,Creative & Design,Creative & Design,0.7199402
+162,Other Services,Finance & Accounting,0.6432518
+163,Manufacturing & Construction,Finance & Accounting,0.6937939
+164,Manufacturing & Construction,Tech & IT,0.5724109
+165,Education,Creative & Design,0.60138524
+166,Manufacturing & Construction,Finance & Accounting,0.7434887
+167,Other Services,Finance & Accounting,0.5441357
+168,Manufacturing & Construction,Creative & Design,0.6607522
+169,Manufacturing & Construction,Tech & IT,0.69243217
+170,Creative & Design,Creative & Design,0.7477782
+171,Manufacturing & Construction,Creative & Design,0.67727613
+172,Manufacturing & Construction,Tech & IT,0.59194803
+173,Creative & Design,Finance & Accounting,0.6531676
+174,HR & Operations,Finance & Accounting,0.6395217
+175,Manufacturing & Construction,Finance & Accounting,0.641441
+176,Creative & Design,Creative & Design,0.6837481
+177,Manufacturing & Construction,Creative & Design,0.61119366
+178,Creative & Design,Creative & Design,0.7626941
+179,Creative & Design,Creative & Design,0.5906682
+180,Other Services,Finance & Accounting,0.7311055
+181,Manufacturing & Construction,Finance & Accounting,0.5943877
+182,Creative & Design,Creative & Design,0.61742723
+183,Other Services,Finance & Accounting,0.5241352
+184,Manufacturing & Construction,Finance & Accounting,0.66652
+185,Manufacturing & Construction,Tech & IT,0.6705711
+186,Creative & Design,Creative & Design,0.6573709
+187,Other Services,Finance & Accounting,0.695774
+188,Creative & Design,Creative & Design,0.72672963
+189,Tech & IT,Creative & Design,0.66899097
+190,Creative & Design,Creative & Design,0.6806285
+191,Creative & Design,Creative & Design,0.54513097
+192,Creative & Design,Creative & Design,0.7217875
+193,Other Services,Creative & Design,0.6892532
+194,Education,Finance & Accounting,0.70161366
+195,Manufacturing & Construction,Finance & Accounting,0.6995688
+196,Manufacturing & Construction,Creative & Design,0.7758396
+197,Creative & Design,Creative & Design,0.7632585
+198,Creative & Design,Creative & Design,0.64983374
+199,Tech & IT,Tech & IT,0.75034684
+200,Creative & Design,Creative & Design,0.6931689
+201,Creative & Design,Creative & Design,0.6696372
+202,Creative & Design,Creative & Design,0.66649115
+203,Creative & Design,Finance & Accounting,0.615675
+204,Other Services,Finance & Accounting,0.7064011
+205,Creative & Design,Finance & Accounting,0.6756574
+206,Creative & Design,Creative & Design,0.78975606
+207,Manufacturing & Construction,Finance & Accounting,0.49993533
+208,Creative & Design,Creative & Design,0.74932396
+209,Education,Creative & Design,0.7532695
+210,Creative & Design,Creative & Design,0.65548325
+211,Creative & Design,Creative & Design,0.6708649
+212,Other Services,Finance & Accounting,0.6793831
+213,Manufacturing & Construction,Tech & IT,0.62176806
+214,Creative & Design,Creative & Design,0.63925695
+215,Creative & Design,Creative & Design,0.5371149
+216,HR & Operations,Finance & Accounting,0.6371972
+217,Tech & IT,Tech & IT,0.79367274
+218,Tech & IT,Tech & IT,0.7498673
+219,HR & Operations,Finance & Accounting,0.7287887
+220,Education,Tech & IT,0.6297082
+221,Tech & IT,Tech & IT,0.74368525
+222,Tech & IT,Tech & IT,0.7177193
+223,Finance & Accounting,Finance & Accounting,0.7890561
+224,Tech & IT,Finance & Accounting,0.701679
+225,Tech & IT,Finance & Accounting,0.74719834
+226,Tech & IT,Tech & IT,0.7621577
+227,Tech & IT,Finance & Accounting,0.69035745
+228,Healthcare,Finance & Accounting,0.73845756
+229,Tech & IT,Tech & IT,0.7473156
+230,Tech & IT,Finance & Accounting,0.7680211
+231,Tech & IT,Finance & Accounting,0.7293472
+232,Tech & IT,Tech & IT,0.72977865
+233,Tech & IT,Finance & Accounting,0.7766371
+234,Tech & IT,Finance & Accounting,0.76857805
+235,Finance & Accounting,Finance & Accounting,0.81169605
+236,Tech & IT,Finance & Accounting,0.7761992
+237,Tech & IT,Tech & IT,0.68859696
+238,Tech & IT,Finance & Accounting,0.7320996
+239,Tech & IT,Finance & Accounting,0.72189283
+240,Creative & Design,Finance & Accounting,0.64477754
+241,Tech & IT,Finance & Accounting,0.7401698
+242,Tech & IT,Tech & IT,0.7344577
+243,Tech & IT,Tech & IT,0.7890315
+244,Tech & IT,Finance & Accounting,0.64819777
+245,Tech & IT,Finance & Accounting,0.7828816
+246,Other Services,Finance & Accounting,0.77723044
+247,Tech & IT,Tech & IT,0.74352145
+248,Tech & IT,Finance & Accounting,0.76015574
+249,Tech & IT,Tech & IT,0.641976
+250,Tech & IT,Finance & Accounting,0.73231244
+251,Tech & IT,Finance & Accounting,0.7369565
+252,Healthcare,Finance & Accounting,0.65553576
+253,Tech & IT,Tech & IT,0.78746474
+254,Tech & IT,Tech & IT,0.8033935
+255,Tech & IT,Tech & IT,0.708548
+256,Education,Creative & Design,0.55120504
+257,Tech & IT,Finance & Accounting,0.67762744
+258,Tech & IT,Tech & IT,0.746967
+259,Tech & IT,Tech & IT,0.74175733
+260,Tech & IT,Finance & Accounting,0.6483001
+261,Tech & IT,Finance & Accounting,0.74880815
+262,Tech & IT,Finance & Accounting,0.7783891
+263,Tech & IT,Tech & IT,0.667806
+264,Tech & IT,Finance & Accounting,0.633119
+265,Tech & IT,Finance & Accounting,0.7874813
+266,Finance & Accounting,Finance & Accounting,0.7839745
+267,Finance & Accounting,Finance & Accounting,0.7769313
+268,Tech & IT,Tech & IT,0.68207717
+269,Tech & IT,Finance & Accounting,0.72566944
+270,Tech & IT,Finance & Accounting,0.7791941
+271,Tech & IT,Tech & IT,0.61838216
+272,Tech & IT,Finance & Accounting,0.7221169
+273,Tech & IT,Finance & Accounting,0.6563524
+274,Tech & IT,Finance & Accounting,0.7494879
+275,Tech & IT,Tech & IT,0.7323548
+276,Tech & IT,Tech & IT,0.80198514
+277,Tech & IT,Tech & IT,0.7329799
+278,Tech & IT,Tech & IT,0.76710284
+279,Tech & IT,Tech & IT,0.6869422
+280,Tech & IT,Tech & IT,0.8461034
+281,Tech & IT,Tech & IT,0.81256473
+282,Tech & IT,Tech & IT,0.74305934
+283,Tech & IT,Finance & Accounting,0.7358983
+284,Healthcare,Finance & Accounting,0.7336645
+285,HR & Operations,Finance & Accounting,0.7446667
+286,Tech & IT,Finance & Accounting,0.7827585
+287,Finance & Accounting,Finance & Accounting,0.72603786
+288,Tech & IT,Finance & Accounting,0.82526183
+289,Tech & IT,Tech & IT,0.72881997
+290,Tech & IT,Finance & Accounting,0.78016
+291,Tech & IT,Tech & IT,0.80302715
+292,Finance & Accounting,Finance & Accounting,0.67523026
+293,Tech & IT,Finance & Accounting,0.77015114
+294,Tech & IT,Finance & Accounting,0.7742399
+295,Tech & IT,Finance & Accounting,0.6873597
+296,Tech & IT,Tech & IT,0.74996173
+297,Tech & IT,Tech & IT,0.79439056
+298,Tech & IT,Tech & IT,0.5134814
+299,Tech & IT,Tech & IT,0.7058855
+300,Tech & IT,Tech & IT,0.75953525
+301,Tech & IT,Finance & Accounting,0.7734132
+302,Finance & Accounting,Finance & Accounting,0.7493298
+303,Tech & IT,Finance & Accounting,0.74875313
+304,Tech & IT,Tech & IT,0.80975497
+305,Tech & IT,Tech & IT,0.6506585
+306,HR & Operations,Finance & Accounting,0.77233744
+307,Other Services,Finance & Accounting,0.7407978
+308,Tech & IT,Tech & IT,0.7310363
+309,Tech & IT,Tech & IT,0.8097744
+310,Tech & IT,Finance & Accounting,0.6313255
+311,Tech & IT,Tech & IT,0.7940061
+312,HR & Operations,Finance & Accounting,0.6274353
+313,HR & Operations,Finance & Accounting,0.6585662
+314,Tech & IT,Tech & IT,0.7612051
+315,Manufacturing & Construction,Tech & IT,0.687522
+316,Tech & IT,Tech & IT,0.8057323
+317,Tech & IT,Finance & Accounting,0.79030466
+318,Finance & Accounting,Finance & Accounting,0.7295258
+319,Tech & IT,Tech & IT,0.7537726
+320,Healthcare,Finance & Accounting,0.45313835
+321,Tech & IT,Tech & IT,0.6664566
+322,Healthcare,Finance & Accounting,0.75835216
+323,Tech & IT,Tech & IT,0.7479092
+324,Tech & IT,Tech & IT,0.66879547
+325,Healthcare,Finance & Accounting,0.74085283
+326,Tech & IT,Finance & Accounting,0.7907302
+327,Tech & IT,Tech & IT,0.73209584
+328,Healthcare,Finance & Accounting,0.62160766
+329,Finance & Accounting,Finance & Accounting,0.8065165
+330,Tech & IT,Finance & Accounting,0.8199911
+331,Finance & Accounting,Finance & Accounting,0.7178674
+332,Tech & IT,Finance & Accounting,0.77290154
+333,Tech & IT,Finance & Accounting,0.68598175
+334,Tech & IT,Finance & Accounting,0.7577882
+335,Tech & IT,Tech & IT,0.7550536
+336,HR & Operations,Finance & Accounting,0.71572137
+337,Education,Finance & Accounting,0.5530429
+338,Education,Finance & Accounting,0.6081843
+339,Education,Finance & Accounting,0.44053468
+340,Healthcare,Finance & Accounting,0.682065
+341,Education,Finance & Accounting,0.50628895
+342,Education,Finance & Accounting,0.4991231
+343,Education,Finance & Accounting,0.535244
+344,Education,Finance & Accounting,0.5423933
+345,Education,Finance & Accounting,0.6064856
+346,Education,Finance & Accounting,0.4908838
+347,Education,Finance & Accounting,0.5221362
+348,Education,Finance & Accounting,0.6752301
+349,Education,Finance & Accounting,0.55327076
+350,Education,Finance & Accounting,0.5766932
+351,Education,Finance & Accounting,0.6114834
+352,Education,Finance & Accounting,0.40734735
+353,Education,Creative & Design,0.42129824
+354,Education,Finance & Accounting,0.68169415
+355,Education,Creative & Design,0.54817855
+356,Education,Creative & Design,0.5405774
+357,Education,Finance & Accounting,0.52092445
+358,Healthcare,Finance & Accounting,0.50452256
+359,Education,Finance & Accounting,0.45069987
+360,Education,Finance & Accounting,0.40968847
+361,Education,Finance & Accounting,0.5728345
+362,Education,Finance & Accounting,0.6256326
+363,Education,Finance & Accounting,0.4408133
+364,Education,Finance & Accounting,0.49369186
+365,Education,Finance & Accounting,0.5700307
+366,Education,Finance & Accounting,0.5828824
+367,Education,Finance & Accounting,0.5233784
+368,Education,Creative & Design,0.56187963
+369,Education,Finance & Accounting,0.5300797
+370,Education,Finance & Accounting,0.6467101
+371,Hospitality & Food,Finance & Accounting,0.41239455
+372,Education,Finance & Accounting,0.5766043
+373,Healthcare,Finance & Accounting,0.5949247
+374,Education,Finance & Accounting,0.4686339
+375,Education,Creative & Design,0.5094445
+376,Education,Creative & Design,0.58656013
+377,Education,Creative & Design,0.5194421
+378,Education,Finance & Accounting,0.58129793
+379,Education,Finance & Accounting,0.5919987
+380,Education,Finance & Accounting,0.6291461
+381,Education,Finance & Accounting,0.55405813
+382,Education,Finance & Accounting,0.6316173
+383,Education,Finance & Accounting,0.60203785
+384,Education,Finance & Accounting,0.5149611
+385,Education,Creative & Design,0.51005
+386,Education,Creative & Design,0.55570114
+387,Education,Finance & Accounting,0.5766193
+388,Education,Finance & Accounting,0.5730159
+389,Education,Finance & Accounting,0.4751845
+390,Education,Creative & Design,0.48582292
+391,Education,Finance & Accounting,0.5486363
+392,Education,Finance & Accounting,0.6684969
+393,Education,Finance & Accounting,0.5441116
+394,Education,Finance & Accounting,0.6572086
+395,Education,Finance & Accounting,0.55093503
+396,Education,Finance & Accounting,0.59787405
+397,Education,Finance & Accounting,0.5498427
+398,Education,Finance & Accounting,0.6027157
+399,Education,Finance & Accounting,0.5399057
+400,Education,Finance & Accounting,0.4888738
+401,Education,Finance & Accounting,0.5974943
+402,Education,Finance & Accounting,0.5997493
+403,Healthcare,Finance & Accounting,0.48156655
+404,Education,Creative & Design,0.5160936
+405,Education,Finance & Accounting,0.51432085
+406,Education,Finance & Accounting,0.5882499
+407,Creative & Design,Creative & Design,0.56598604
+408,Education,Finance & Accounting,0.5381493
+409,Education,Creative & Design,0.584652
+410,Education,Finance & Accounting,0.55774367
+411,Education,Creative & Design,0.4455731
+412,Education,Creative & Design,0.50286734
+413,Education,Finance & Accounting,0.5426216
+414,Education,Finance & Accounting,0.61113
+415,Education,Finance & Accounting,0.49787012
+416,Education,Finance & Accounting,0.518012
+417,Education,Finance & Accounting,0.44402036
+418,Education,Finance & Accounting,0.547264
+419,Education,Finance & Accounting,0.6115558
+420,Education,Finance & Accounting,0.7228137
+421,Education,Finance & Accounting,0.6584261
+422,Education,Finance & Accounting,0.5055902
+423,Education,Finance & Accounting,0.55271256
+424,Education,Finance & Accounting,0.5789115
+425,Education,Finance & Accounting,0.56880033
+426,Education,Creative & Design,0.50401074
+427,Education,Finance & Accounting,0.62605906
+428,Education,Finance & Accounting,0.39820135
+429,Education,Finance & Accounting,0.49297395
+430,Education,Finance & Accounting,0.48814982
+431,Education,Finance & Accounting,0.51181257
+432,Education,Creative & Design,0.5304724
+433,Education,Finance & Accounting,0.61775684
+434,Education,Finance & Accounting,0.596843
+435,Education,Finance & Accounting,0.566573
+436,Education,Creative & Design,0.5744175
+437,Education,Finance & Accounting,0.5189618
+438,Education,Tech & IT,0.679106
+439,Healthcare,Finance & Accounting,0.45868093
+440,Healthcare,Finance & Accounting,0.721244
+441,HR & Operations,Finance & Accounting,0.7039179
+442,Education,Finance & Accounting,0.5175673
+443,Healthcare,Finance & Accounting,0.63533455
+444,Healthcare,Finance & Accounting,0.52545995
+445,Other Services,Finance & Accounting,0.72453463
+446,Healthcare,Finance & Accounting,0.67556906
+447,Other Services,Finance & Accounting,0.62343687
+448,Education,Finance & Accounting,0.6075969
+449,Healthcare,Finance & Accounting,0.61803365
+450,Healthcare,Finance & Accounting,0.64905864
+451,Other Services,Finance & Accounting,0.6751969
+452,Healthcare,Finance & Accounting,0.49361885
+453,Other Services,Finance & Accounting,0.65134275
+454,Other Services,Finance & Accounting,0.6837845
+455,Healthcare,Finance & Accounting,0.61017823
+456,Healthcare,Finance & Accounting,0.6911925
+457,Healthcare,Finance & Accounting,0.5590451
+458,Healthcare,Finance & Accounting,0.67681605
+459,Healthcare,Finance & Accounting,0.6297586
+460,Healthcare,Finance & Accounting,0.6991726
+461,Healthcare,Finance & Accounting,0.6050526
+462,Healthcare,Finance & Accounting,0.5494238
+463,Healthcare,Finance & Accounting,0.64735186
+464,Healthcare,Finance & Accounting,0.68259156
+465,Other Services,Finance & Accounting,0.73243326
+466,Healthcare,Finance & Accounting,0.6074574
+467,Education,Finance & Accounting,0.6060476
+468,Other Services,Finance & Accounting,0.7067356
+469,Healthcare,Finance & Accounting,0.4280832
+470,Finance & Accounting,Finance & Accounting,0.7015234
+471,Healthcare,Finance & Accounting,0.7293655
+472,Education,Finance & Accounting,0.5549159
+473,Other Services,Finance & Accounting,0.7573129
+474,Healthcare,Finance & Accounting,0.70107543
+475,Healthcare,Finance & Accounting,0.7014892
+476,Tech & IT,Tech & IT,0.7237977
+477,Other Services,Finance & Accounting,0.7123904
+478,Other Services,Finance & Accounting,0.790872
+479,Healthcare,Finance & Accounting,0.66499615
+480,Healthcare,Finance & Accounting,0.64571124
+481,Other Services,Finance & Accounting,0.65877926
+482,Healthcare,Finance & Accounting,0.57307947
+483,Finance & Accounting,Finance & Accounting,0.7760711
+484,Healthcare,Finance & Accounting,0.65619516
+485,Healthcare,Finance & Accounting,0.6897674
+486,Finance & Accounting,Finance & Accounting,0.76784337
+487,Healthcare,Finance & Accounting,0.74021566
+488,Healthcare,Finance & Accounting,0.5270773
+489,Other Services,Finance & Accounting,0.6619334
+490,Other Services,Finance & Accounting,0.7141254
+491,Healthcare,Finance & Accounting,0.59339374
+492,Healthcare,Finance & Accounting,0.6038885
+493,Finance & Accounting,Finance & Accounting,0.73939663
+494,Healthcare,Finance & Accounting,0.66046846
+495,Healthcare,Finance & Accounting,0.6133418
+496,Healthcare,Finance & Accounting,0.54078865
+497,Healthcare,Finance & Accounting,0.54092866
+498,Healthcare,Finance & Accounting,0.66477025
+499,Tech & IT,Tech & IT,0.68808687
+500,Healthcare,Finance & Accounting,0.42988104
+501,Other Services,Finance & Accounting,0.6520357
+502,Healthcare,Finance & Accounting,0.53258145
+503,Healthcare,Finance & Accounting,0.5702498
+504,Other Services,Finance & Accounting,0.72691596
+505,Finance & Accounting,Finance & Accounting,0.75629926
+506,Other Services,Finance & Accounting,0.7160807
+507,Healthcare,Finance & Accounting,0.5454315
+508,Other Services,Finance & Accounting,0.7089753
+509,Healthcare,Finance & Accounting,0.75096816
+510,Healthcare,Finance & Accounting,0.67841613
+511,Healthcare,Finance & Accounting,0.68387914
+512,Healthcare,Finance & Accounting,0.70324206
+513,Other Services,Finance & Accounting,0.66372263
+514,Healthcare,Finance & Accounting,0.70519364
+515,Finance & Accounting,Finance & Accounting,0.7379733
+516,Healthcare,Finance & Accounting,0.5000901
+517,Healthcare,Finance & Accounting,0.6163876
+518,Healthcare,Finance & Accounting,0.37022054
+519,Healthcare,Finance & Accounting,0.5624797
+520,Healthcare,Finance & Accounting,0.46323603
+521,Healthcare,Finance & Accounting,0.72146344
+522,Healthcare,Finance & Accounting,0.6514716
+523,Healthcare,Finance & Accounting,0.5519817
+524,Other Services,Finance & Accounting,0.661548
+525,Healthcare,Finance & Accounting,0.7474283
+526,Healthcare,Finance & Accounting,0.5669652
+527,Healthcare,Finance & Accounting,0.58153945
+528,Healthcare,Finance & Accounting,0.53398347
+529,Healthcare,Finance & Accounting,0.7242694
+530,Healthcare,Finance & Accounting,0.63102734
+531,HR & Operations,Finance & Accounting,0.73192954
+532,Healthcare,Finance & Accounting,0.67870164
+533,Finance & Accounting,Finance & Accounting,0.6725328
+534,Finance & Accounting,Finance & Accounting,0.76456875
+535,Healthcare,Finance & Accounting,0.4870097
+536,Healthcare,Finance & Accounting,0.7270589
+537,Healthcare,Finance & Accounting,0.5472668
+538,HR & Operations,Finance & Accounting,0.69432247
+539,Healthcare,Finance & Accounting,0.48077977
+540,Creative & Design,Finance & Accounting,0.6473391
+541,HR & Operations,Finance & Accounting,0.7313818
+542,Creative & Design,Finance & Accounting,0.626709
+543,Other Services,Finance & Accounting,0.71502423
+544,Finance & Accounting,Finance & Accounting,0.76231194
+545,Healthcare,Finance & Accounting,0.6011093
+546,Healthcare,Finance & Accounting,0.7602458
+547,Tech & IT,Tech & IT,0.63115233
+548,Healthcare,Finance & Accounting,0.5158773
+549,Finance & Accounting,Finance & Accounting,0.77863157
+550,Healthcare,Finance & Accounting,0.52697194
+551,Healthcare,Finance & Accounting,0.46713096
+552,Healthcare,Finance & Accounting,0.60724884
+553,Finance & Accounting,Finance & Accounting,0.7861848
+554,HR & Operations,Finance & Accounting,0.7279709
+555,Finance & Accounting,Finance & Accounting,0.68947494
+556,Healthcare,Finance & Accounting,0.47395822
+557,Finance & Accounting,Finance & Accounting,0.70111734
+558,Finance & Accounting,Finance & Accounting,0.82038057
+559,Finance & Accounting,Finance & Accounting,0.7303916
+560,Finance & Accounting,Finance & Accounting,0.7614776
+561,Finance & Accounting,Finance & Accounting,0.8085913
+562,Finance & Accounting,Finance & Accounting,0.7538378
+563,Finance & Accounting,Finance & Accounting,0.8063526
+564,Healthcare,Finance & Accounting,0.7044113
+565,Finance & Accounting,Finance & Accounting,0.73699695
+566,Finance & Accounting,Finance & Accounting,0.7527041
+567,Other Services,Finance & Accounting,0.72147596
+568,Creative & Design,Finance & Accounting,0.70977116
+569,Finance & Accounting,Finance & Accounting,0.8164876
+570,Finance & Accounting,Finance & Accounting,0.8401021
+571,Other Services,Finance & Accounting,0.738748
+572,Other Services,Finance & Accounting,0.701448
+573,Finance & Accounting,Finance & Accounting,0.760452
+574,Finance & Accounting,Finance & Accounting,0.73946655
+575,Creative & Design,Finance & Accounting,0.74323523
+576,Finance & Accounting,Finance & Accounting,0.7015507
+577,Finance & Accounting,Finance & Accounting,0.75952077
+578,Finance & Accounting,Finance & Accounting,0.71953833
+579,Finance & Accounting,Finance & Accounting,0.7629053
+580,Finance & Accounting,Finance & Accounting,0.6938187
+581,Creative & Design,Finance & Accounting,0.7553574
+582,Creative & Design,Finance & Accounting,0.61420494
+583,Finance & Accounting,Finance & Accounting,0.7516786
+584,Finance & Accounting,Finance & Accounting,0.6339344
+585,Finance & Accounting,Finance & Accounting,0.71036816
+586,Finance & Accounting,Finance & Accounting,0.69995546
+587,Hospitality & Food,Finance & Accounting,0.71378034
+588,Finance & Accounting,Finance & Accounting,0.7952112
+589,Finance & Accounting,Finance & Accounting,0.7409106
+590,Finance & Accounting,Finance & Accounting,0.7759156
+591,Healthcare,Finance & Accounting,0.6647965
+592,Finance & Accounting,Finance & Accounting,0.678232
+593,Finance & Accounting,Finance & Accounting,0.7619722
+594,Finance & Accounting,Finance & Accounting,0.7412678
+595,Finance & Accounting,Finance & Accounting,0.76653284
+596,Finance & Accounting,Finance & Accounting,0.73449796
+597,Finance & Accounting,Finance & Accounting,0.7704736
+598,Finance & Accounting,Finance & Accounting,0.7013999
+599,Healthcare,Finance & Accounting,0.6683738
+600,Creative & Design,Finance & Accounting,0.736125
+601,Finance & Accounting,Finance & Accounting,0.8095339
+602,Finance & Accounting,Finance & Accounting,0.74695134
+603,Finance & Accounting,Finance & Accounting,0.7860217
+604,Creative & Design,Finance & Accounting,0.6863775
+605,Finance & Accounting,Finance & Accounting,0.7036408
+606,Finance & Accounting,Finance & Accounting,0.70504725
+607,Creative & Design,Finance & Accounting,0.6567127
+608,Finance & Accounting,Finance & Accounting,0.6897528
+609,Finance & Accounting,Finance & Accounting,0.67661905
+610,Finance & Accounting,Finance & Accounting,0.7346233
+611,Finance & Accounting,Finance & Accounting,0.78193307
+612,Finance & Accounting,Finance & Accounting,0.671434
+613,Finance & Accounting,Finance & Accounting,0.7375407
+614,Healthcare,Finance & Accounting,0.6486106
+615,Finance & Accounting,Finance & Accounting,0.7397957
+616,Creative & Design,Finance & Accounting,0.66480386
+617,Finance & Accounting,Finance & Accounting,0.7124272
+618,Finance & Accounting,Finance & Accounting,0.7623968
+619,Finance & Accounting,Finance & Accounting,0.6990467
+620,Healthcare,Finance & Accounting,0.6253554
+621,Finance & Accounting,Finance & Accounting,0.70325
+622,Finance & Accounting,Finance & Accounting,0.7341126
+623,Finance & Accounting,Finance & Accounting,0.6583864
+624,Finance & Accounting,Finance & Accounting,0.78305006
+625,Finance & Accounting,Finance & Accounting,0.6985745
+626,Other Services,Finance & Accounting,0.74968827
+627,Finance & Accounting,Finance & Accounting,0.8528864
+628,Finance & Accounting,Finance & Accounting,0.82042706
+629,Finance & Accounting,Finance & Accounting,0.7376521
+630,Creative & Design,Finance & Accounting,0.67816174
+631,Finance & Accounting,Finance & Accounting,0.7056519
+632,Finance & Accounting,Finance & Accounting,0.65082324
+633,Finance & Accounting,Finance & Accounting,0.7174837
+634,Finance & Accounting,Finance & Accounting,0.77172357
+635,Other Services,Finance & Accounting,0.7739636
+636,Creative & Design,Finance & Accounting,0.61299413
+637,Finance & Accounting,Finance & Accounting,0.76756144
+638,Creative & Design,Finance & Accounting,0.6974257
+639,Finance & Accounting,Finance & Accounting,0.83287954
+640,Finance & Accounting,Finance & Accounting,0.61779326
+641,Finance & Accounting,Finance & Accounting,0.72983146
+642,Other Services,Finance & Accounting,0.78465754
+643,Finance & Accounting,Finance & Accounting,0.6879605
+644,Finance & Accounting,Finance & Accounting,0.75452065
+645,Finance & Accounting,Finance & Accounting,0.77904344
+646,Finance & Accounting,Finance & Accounting,0.73656774
+647,Finance & Accounting,Finance & Accounting,0.6822762
+648,Finance & Accounting,Finance & Accounting,0.7521289
+649,Finance & Accounting,Finance & Accounting,0.66385305
+650,Healthcare,Finance & Accounting,0.57328755
+651,Finance & Accounting,Finance & Accounting,0.77701694
+652,Finance & Accounting,Finance & Accounting,0.74179935
+653,Finance & Accounting,Finance & Accounting,0.79740477
+654,Creative & Design,Finance & Accounting,0.7753132
+655,Finance & Accounting,Finance & Accounting,0.7865704
+656,Education,Creative & Design,0.052062616
+657,Finance & Accounting,Finance & Accounting,0.7218929
+658,Finance & Accounting,Finance & Accounting,0.6142466
+659,Creative & Design,Finance & Accounting,0.730137
+660,Finance & Accounting,Finance & Accounting,0.7583518
+661,Finance & Accounting,Finance & Accounting,0.72172344
+662,Finance & Accounting,Finance & Accounting,0.75684714
+663,Finance & Accounting,Finance & Accounting,0.72380596
+664,Creative & Design,Finance & Accounting,0.7177891
+665,Finance & Accounting,Finance & Accounting,0.8204072
+666,Finance & Accounting,Finance & Accounting,0.7297015
+667,Creative & Design,Finance & Accounting,0.71575713
+668,Finance & Accounting,Finance & Accounting,0.7182183
+669,Finance & Accounting,Finance & Accounting,0.6417253
+670,Finance & Accounting,Finance & Accounting,0.75088763
+671,Finance & Accounting,Finance & Accounting,0.7731422
+672,Finance & Accounting,Finance & Accounting,0.6259124
+673,Finance & Accounting,Finance & Accounting,0.71034706
+674,Finance & Accounting,Finance & Accounting,0.78045154
+675,Finance & Accounting,Finance & Accounting,0.76152086
+676,Finance & Accounting,Finance & Accounting,0.7774947
+677,Healthcare,Finance & Accounting,0.58127046
+678,Healthcare,Finance & Accounting,0.73406965
+679,HR & Operations,Finance & Accounting,0.653432
+680,Healthcare,Finance & Accounting,0.61922604
+681,Healthcare,Finance & Accounting,0.62059474
+682,Healthcare,Finance & Accounting,0.7302078
+683,Healthcare,Finance & Accounting,0.6770487
+684,Healthcare,Finance & Accounting,0.5736396
+685,Healthcare,Finance & Accounting,0.49234414
+686,Healthcare,Finance & Accounting,0.6352444
+687,Healthcare,Finance & Accounting,0.5406655
+688,Healthcare,Finance & Accounting,0.7672137
+689,Healthcare,Finance & Accounting,0.67817765
+690,Education,Finance & Accounting,0.51930237
+691,Healthcare,Finance & Accounting,0.64013976
+692,Healthcare,Finance & Accounting,0.57579076
+693,Healthcare,Finance & Accounting,0.57551366
+694,Healthcare,Finance & Accounting,0.6203217
+695,Tech & IT,Tech & IT,0.6882733
+696,Healthcare,Finance & Accounting,0.5831076
+697,Healthcare,Finance & Accounting,0.73594916
+698,Healthcare,Finance & Accounting,0.48845452
+699,Healthcare,Finance & Accounting,0.5878306
+700,Healthcare,Finance & Accounting,0.618863
+701,Healthcare,Finance & Accounting,0.6227083
+702,Healthcare,Finance & Accounting,0.6307772
+703,Healthcare,Finance & Accounting,0.64718753
+704,Healthcare,Finance & Accounting,0.6797811
+705,Healthcare,Finance & Accounting,0.56552273
+706,Healthcare,Finance & Accounting,0.7387105
+707,Tech & IT,Tech & IT,0.76069057
+708,Finance & Accounting,Finance & Accounting,0.7673278
+709,Healthcare,Finance & Accounting,0.6984116
+710,Healthcare,Finance & Accounting,0.64916325
+711,Healthcare,Finance & Accounting,0.644652
+712,Healthcare,Finance & Accounting,0.6175787
+713,Healthcare,Finance & Accounting,0.6804874
+714,Healthcare,Finance & Accounting,0.5873395
+715,Finance & Accounting,Finance & Accounting,0.63711154
+716,Healthcare,Finance & Accounting,0.6188758
+717,Healthcare,Finance & Accounting,0.6666666
+718,Healthcare,Finance & Accounting,0.5297818
+719,Healthcare,Finance & Accounting,0.62554985
+720,Healthcare,Finance & Accounting,0.6782925
+721,Healthcare,Finance & Accounting,0.6844913
+722,Healthcare,Finance & Accounting,0.7638231
+723,HR & Operations,Finance & Accounting,0.6464807
+724,Healthcare,Finance & Accounting,0.65670705
+725,Creative & Design,Finance & Accounting,0.57726544
+726,Healthcare,Finance & Accounting,0.6151795
+727,Healthcare,Finance & Accounting,0.6911419
+728,Healthcare,Finance & Accounting,0.79865515
+729,Healthcare,Finance & Accounting,0.6122558
+730,Healthcare,Finance & Accounting,0.68053204
+731,Healthcare,Finance & Accounting,0.7029104
+732,Other Services,Finance & Accounting,0.63636124
+733,Finance & Accounting,Finance & Accounting,0.67889106
+734,HR & Operations,Finance & Accounting,0.71534896
+735,Healthcare,Finance & Accounting,0.74052644
+736,Healthcare,Finance & Accounting,0.6697889
+737,Healthcare,Finance & Accounting,0.53227925
+738,Tech & IT,Finance & Accounting,0.7473259
+739,Healthcare,Finance & Accounting,0.59477675
+740,Healthcare,Finance & Accounting,0.570482
+741,Healthcare,Finance & Accounting,0.6807389
+742,Healthcare,Finance & Accounting,0.7187058
+743,Finance & Accounting,Finance & Accounting,0.78565776
+744,Healthcare,Finance & Accounting,0.61908334
+745,Healthcare,Finance & Accounting,0.55120504
+746,Manufacturing & Construction,Finance & Accounting,0.66204023
+747,Healthcare,Finance & Accounting,0.7650798
+748,HR & Operations,Finance & Accounting,0.7096384
+749,Healthcare,Finance & Accounting,0.71165925
+750,Healthcare,Finance & Accounting,0.6371065
+751,Healthcare,Finance & Accounting,0.64491385
+752,Healthcare,Finance & Accounting,0.6507212
+753,Healthcare,Finance & Accounting,0.69335234
+754,Healthcare,Finance & Accounting,0.6015901
+755,Healthcare,Finance & Accounting,0.65715563
+756,Manufacturing & Construction,Finance & Accounting,0.68294495
+757,Healthcare,Finance & Accounting,0.6751369
+758,HR & Operations,Finance & Accounting,0.6348069
+759,Healthcare,Finance & Accounting,0.58439344
+760,Other Services,Finance & Accounting,0.690635
+761,Healthcare,Finance & Accounting,0.6579687
+762,Healthcare,Finance & Accounting,0.59186566
+763,Healthcare,Finance & Accounting,0.68823737
+764,Creative & Design,Finance & Accounting,0.66674554
+765,Healthcare,Finance & Accounting,0.72764575
+766,Creative & Design,Finance & Accounting,0.7044163
+767,Healthcare,Finance & Accounting,0.65969574
+768,Healthcare,Finance & Accounting,0.6983757
+769,Healthcare,Finance & Accounting,0.55444515
+770,HR & Operations,Finance & Accounting,0.7261646
+771,Hospitality & Food,Finance & Accounting,0.66266084
+772,Healthcare,Finance & Accounting,0.60121876
+773,HR & Operations,Finance & Accounting,0.72360766
+774,Tech & IT,Tech & IT,0.784836
+775,Other Services,Finance & Accounting,0.64571786
+776,Healthcare,Finance & Accounting,0.5873343
+777,Healthcare,Finance & Accounting,0.6537616
+778,Healthcare,Finance & Accounting,0.74522823
+779,Finance & Accounting,Finance & Accounting,0.6909504
+780,Healthcare,Finance & Accounting,0.62444067
+781,Healthcare,Finance & Accounting,0.68636954
+782,Healthcare,Finance & Accounting,0.7675881
+783,Healthcare,Finance & Accounting,0.5907783
+784,Finance & Accounting,Finance & Accounting,0.773462
+785,Healthcare,Finance & Accounting,0.61463344
+786,Other Services,Finance & Accounting,0.735945
+787,Healthcare,Finance & Accounting,0.55591595
+788,Education,Finance & Accounting,0.5961757
+789,Healthcare,Finance & Accounting,0.70244116
+790,HR & Operations,Finance & Accounting,0.72788876
+791,Healthcare,Finance & Accounting,0.57518905
+792,Healthcare,Finance & Accounting,0.44442698
+793,Healthcare,Finance & Accounting,0.5000619
+794,Healthcare,Finance & Accounting,0.5065416
+795,Healthcare,Finance & Accounting,0.5226526
+796,Healthcare,Finance & Accounting,0.73074996
+797,Healthcare,Finance & Accounting,0.572119
+798,Healthcare,Finance & Accounting,0.49775007
+799,Healthcare,Creative & Design,0.48373872
+800,Healthcare,Finance & Accounting,0.6214958
+801,Healthcare,Finance & Accounting,0.6733614
+802,Healthcare,Finance & Accounting,0.5972039
+803,Healthcare,Finance & Accounting,0.5281465
+804,Healthcare,Finance & Accounting,0.5221783
+805,Healthcare,Finance & Accounting,0.560412
+806,Healthcare,Finance & Accounting,0.54336226
+807,Creative & Design,Finance & Accounting,0.56395763
+808,Healthcare,Finance & Accounting,0.40496275
+809,Healthcare,Finance & Accounting,0.51447123
+810,Healthcare,Finance & Accounting,0.46182597
+811,Healthcare,Finance & Accounting,0.50299895
+812,Healthcare,Finance & Accounting,0.55874586
+813,Healthcare,Finance & Accounting,0.31579328
+814,Healthcare,Finance & Accounting,0.4726673
+815,Healthcare,Finance & Accounting,0.6522574
+816,Healthcare,Finance & Accounting,0.4823528
+817,HR & Operations,Finance & Accounting,0.6085211
+818,Healthcare,Finance & Accounting,0.5559864
+819,Healthcare,Finance & Accounting,0.589251
+820,Healthcare,Finance & Accounting,0.44868046
+821,Healthcare,Finance & Accounting,0.5875788
+822,Healthcare,Finance & Accounting,0.41871214
+823,Finance & Accounting,Finance & Accounting,0.69540304
+824,Healthcare,Finance & Accounting,0.4705609
+825,Healthcare,Finance & Accounting,0.46805963
+826,Healthcare,Finance & Accounting,0.4899656
+827,Healthcare,Finance & Accounting,0.63584626
+828,Healthcare,Finance & Accounting,0.57731754
+829,Healthcare,Finance & Accounting,0.59691584
+830,HR & Operations,Finance & Accounting,0.7131299
+831,Healthcare,Finance & Accounting,0.521292
+832,Healthcare,Finance & Accounting,0.55042315
+833,Other Services,Finance & Accounting,0.67573726
+834,Finance & Accounting,Finance & Accounting,0.7218319
+835,Healthcare,Finance & Accounting,0.54716796
+836,Healthcare,Finance & Accounting,0.5213692
+837,Healthcare,Finance & Accounting,0.4843561
+838,Healthcare,Finance & Accounting,0.5386182
+839,Finance & Accounting,Finance & Accounting,0.6655345
+840,Healthcare,Finance & Accounting,0.42203748
+841,Other Services,Finance & Accounting,0.66506064
+842,Other Services,Finance & Accounting,0.7760051
+843,Other Services,Finance & Accounting,0.73186314
+844,Manufacturing & Construction,Tech & IT,0.6883306
+845,HR & Operations,Finance & Accounting,0.73932266
+846,Healthcare,Finance & Accounting,0.58988804
+847,Healthcare,Finance & Accounting,0.39501786
+848,HR & Operations,Finance & Accounting,0.7036838
+849,Healthcare,Finance & Accounting,0.5534792
+850,Finance & Accounting,Finance & Accounting,0.71955657
+851,Other Services,Finance & Accounting,0.644096
+852,Education,Finance & Accounting,0.49114105
+853,Other Services,Finance & Accounting,0.68050903
+854,HR & Operations,Finance & Accounting,0.6988241
+855,Healthcare,Finance & Accounting,0.5505738
+856,Healthcare,Finance & Accounting,0.58889014
+857,Healthcare,Finance & Accounting,0.42019022
+858,Healthcare,Finance & Accounting,0.61056423
+859,Healthcare,Finance & Accounting,0.6489943
+860,Finance & Accounting,Finance & Accounting,0.74491256
+861,Finance & Accounting,Finance & Accounting,0.7228623
+862,Healthcare,Finance & Accounting,0.42360723
+863,Healthcare,Finance & Accounting,0.6319186
+864,Healthcare,Finance & Accounting,0.5506942
+865,Other Services,Finance & Accounting,0.6823686
+866,Healthcare,Finance & Accounting,0.48200852
+867,Other Services,Finance & Accounting,0.74422693
+868,Other Services,Finance & Accounting,0.6718146
+869,Other Services,Finance & Accounting,0.726382
+870,Education,Finance & Accounting,0.61292505
+871,Healthcare,Finance & Accounting,0.61219466
+872,Finance & Accounting,Finance & Accounting,0.78774214
+873,Healthcare,Finance & Accounting,0.5706632
+874,Healthcare,Finance & Accounting,0.6156975
+875,Healthcare,Finance & Accounting,0.54204065
+876,Other Services,Finance & Accounting,0.6474795
+877,Healthcare,Finance & Accounting,0.3608607
+878,Manufacturing & Construction,Finance & Accounting,0.55306625
+879,Healthcare,Finance & Accounting,0.6408802
+880,Healthcare,Finance & Accounting,0.3940397
+881,Finance & Accounting,Finance & Accounting,0.7554943
+882,Healthcare,Finance & Accounting,0.4862823
+883,Finance & Accounting,Finance & Accounting,0.766013
+884,Healthcare,Finance & Accounting,0.59897375
+885,Finance & Accounting,Finance & Accounting,0.69029397
+886,Healthcare,Finance & Accounting,0.5904508
+887,Other Services,Finance & Accounting,0.72622323
+888,Other Services,Finance & Accounting,0.65122163
+889,Other Services,Finance & Accounting,0.46079636
+890,Creative & Design,Creative & Design,0.58554745
+891,Finance & Accounting,Finance & Accounting,0.75141454
+892,Healthcare,Finance & Accounting,0.57312304
+893,Healthcare,Finance & Accounting,0.5984592
+894,Other Services,Finance & Accounting,0.67357516
+895,Healthcare,Finance & Accounting,0.6986018
+896,Healthcare,Finance & Accounting,0.601769
+897,Other Services,Finance & Accounting,0.6869892
+898,Finance & Accounting,Finance & Accounting,0.70137537
+899,Other Services,Finance & Accounting,0.65490294
+900,Other Services,Finance & Accounting,0.70295405
+901,Healthcare,Finance & Accounting,0.58780146
+902,HR & Operations,Finance & Accounting,0.5574583
+903,Education,Finance & Accounting,0.60704297
+904,Other Services,Finance & Accounting,0.6271088
+905,Other Services,Finance & Accounting,0.67567563
+906,Manufacturing & Construction,Tech & IT,0.67509437
+907,Other Services,Finance & Accounting,0.70083547
+908,Healthcare,Finance & Accounting,0.68109775
+909,Finance & Accounting,Finance & Accounting,0.78219527
+910,Education,Finance & Accounting,0.6199739
+911,Finance & Accounting,Finance & Accounting,0.6641548
+912,Education,Finance & Accounting,0.7180104
+913,Finance & Accounting,Finance & Accounting,0.7019651
+914,Creative & Design,Finance & Accounting,0.69653326
+915,Education,Finance & Accounting,0.5560998
+916,Education,Finance & Accounting,0.5764054
+917,Manufacturing & Construction,Finance & Accounting,0.51159376
+918,Education,Finance & Accounting,0.6595029
+919,Tech & IT,Finance & Accounting,0.48106477
+920,Healthcare,Finance & Accounting,0.45300442
+921,Tech & IT,Finance & Accounting,0.48558667
+922,Finance & Accounting,Finance & Accounting,0.6963133
+923,Hospitality & Food,Finance & Accounting,0.3529509
+924,Manufacturing & Construction,Finance & Accounting,0.58781254
+925,Healthcare,Finance & Accounting,0.7136013
+926,Tech & IT,Tech & IT,0.81296384
+927,HR & Operations,Finance & Accounting,0.57648146
+928,Healthcare,Finance & Accounting,0.649185
+929,Tech & IT,Finance & Accounting,0.7434257
+930,Manufacturing & Construction,Finance & Accounting,0.6041683
+931,Finance & Accounting,Finance & Accounting,0.717385
+932,HR & Operations,Finance & Accounting,0.4395458
+933,Education,Finance & Accounting,0.6828425
+934,HR & Operations,Finance & Accounting,0.372876
+935,Healthcare,Finance & Accounting,0.55737466
+936,Other Services,Finance & Accounting,0.6550911
+937,Creative & Design,Finance & Accounting,0.5174645
+938,Healthcare,Finance & Accounting,0.686962
+939,Finance & Accounting,Finance & Accounting,0.81905437
+940,Finance & Accounting,Finance & Accounting,0.691697
+941,Healthcare,Finance & Accounting,0.63981855
+942,Manufacturing & Construction,Tech & IT,0.50900996
+943,HR & Operations,Finance & Accounting,0.7301445
+944,Other Services,Finance & Accounting,0.7121047
+945,Creative & Design,Finance & Accounting,0.74118423
+946,Finance & Accounting,Finance & Accounting,0.7577126
+947,Healthcare,Finance & Accounting,0.39675403
+948,Education,Finance & Accounting,0.58416766
+949,Healthcare,Finance & Accounting,0.6925066
+950,Tech & IT,Finance & Accounting,0.75015616
+951,Finance & Accounting,Finance & Accounting,0.71070063
+952,Healthcare,Finance & Accounting,0.5916942
+953,Finance & Accounting,Finance & Accounting,0.7693318
+954,Manufacturing & Construction,Finance & Accounting,0.5384587
+955,Finance & Accounting,Finance & Accounting,0.76469654
+956,Manufacturing & Construction,Finance & Accounting,0.66850954
+957,Finance & Accounting,Finance & Accounting,0.70639986
+958,Manufacturing & Construction,Tech & IT,0.4543929
+959,Education,Finance & Accounting,0.4456206
+960,Tech & IT,Finance & Accounting,0.6705896
+961,Other Services,Finance & Accounting,0.626138
+962,Healthcare,Finance & Accounting,0.5689106
+963,Tech & IT,Finance & Accounting,0.78222024
+964,Healthcare,Finance & Accounting,0.74529314
+965,Creative & Design,Finance & Accounting,0.52587396
+966,HR & Operations,Finance & Accounting,0.59546155
+967,Manufacturing & Construction,Finance & Accounting,0.69552016
+968,Healthcare,Finance & Accounting,0.7233302
+969,Healthcare,Finance & Accounting,0.62486136
+970,Other Services,Finance & Accounting,0.5684848
+971,Finance & Accounting,Finance & Accounting,0.7261826
+972,Finance & Accounting,Finance & Accounting,0.76425964
+973,Finance & Accounting,Finance & Accounting,0.73518914
+974,Finance & Accounting,Finance & Accounting,0.7772526
+975,HR & Operations,Finance & Accounting,0.6466234
+976,Finance & Accounting,Finance & Accounting,0.8127494
+977,HR & Operations,Finance & Accounting,0.6794317
+978,Finance & Accounting,Finance & Accounting,0.59336996
+979,Manufacturing & Construction,Finance & Accounting,0.8034429
+980,Tech & IT,Tech & IT,0.5688335
+981,Finance & Accounting,Finance & Accounting,0.78783715
+982,Tech & IT,Tech & IT,0.6990186
+983,Finance & Accounting,Finance & Accounting,0.7641423
+984,Finance & Accounting,Finance & Accounting,0.7811717
+985,HR & Operations,Finance & Accounting,0.5897393
+986,Tech & IT,Finance & Accounting,0.6920235
+987,Tech & IT,Tech & IT,0.8250879
+988,Finance & Accounting,Finance & Accounting,0.7820758
+989,Finance & Accounting,Finance & Accounting,0.7530804
+990,Finance & Accounting,Finance & Accounting,0.7481855
+991,Finance & Accounting,Finance & Accounting,0.8361709
+992,Finance & Accounting,Finance & Accounting,0.62892663
+993,Healthcare,Finance & Accounting,0.67227566
+994,Other Services,Finance & Accounting,0.7053365
+995,Other Services,Finance & Accounting,0.6373507
+996,Other Services,Finance & Accounting,0.7584036
+997,Other Services,Finance & Accounting,0.7171073
+998,Healthcare,Finance & Accounting,0.5332662
+999,Other Services,Finance & Accounting,0.64366496
+1000,Other Services,Finance & Accounting,0.7268878
+1001,Tech & IT,Tech & IT,0.8001981
+1002,Other Services,Finance & Accounting,0.6506034
+1003,Other Services,Finance & Accounting,0.75112426
+1004,Other Services,Finance & Accounting,0.6896988
+1005,Other Services,Finance & Accounting,0.6896988
+1006,Creative & Design,Finance & Accounting,0.6733626
+1007,Creative & Design,Finance & Accounting,0.63013494
+1008,Other Services,Finance & Accounting,0.7874253
+1009,Manufacturing & Construction,Finance & Accounting,0.7079636
+1010,Other Services,Finance & Accounting,0.6914864
+1011,Finance & Accounting,Finance & Accounting,0.73316944
+1012,Other Services,Finance & Accounting,0.632776
+1013,Other Services,Finance & Accounting,0.6357994
+1014,Other Services,Finance & Accounting,0.719787
+1015,Other Services,Finance & Accounting,0.7304559
+1016,Other Services,Finance & Accounting,0.6431698
+1017,Finance & Accounting,Finance & Accounting,0.7876353
+1018,Manufacturing & Construction,Finance & Accounting,0.72065735
+1019,Other Services,Finance & Accounting,0.4981064
+1020,Other Services,Finance & Accounting,0.73060846
+1021,Creative & Design,Finance & Accounting,0.5992219
+1022,HR & Operations,Finance & Accounting,0.6884945
+1023,Other Services,Finance & Accounting,0.5328249
+1024,Other Services,Finance & Accounting,0.7195512
+1025,Creative & Design,Finance & Accounting,0.5649353
+1026,Other Services,Finance & Accounting,0.6278814
+1027,Finance & Accounting,Finance & Accounting,0.7539353
+1028,Other Services,Finance & Accounting,0.65954965
+1029,Healthcare,Finance & Accounting,0.63990414
+1030,Creative & Design,Finance & Accounting,0.58985907
+1031,Other Services,Finance & Accounting,0.6283156
+1032,Other Services,Finance & Accounting,0.6228913
+1033,Other Services,Finance & Accounting,0.6726785
+1034,Other Services,Finance & Accounting,0.60228515
+1035,Other Services,Finance & Accounting,0.602672
+1036,Other Services,Finance & Accounting,0.7648178
+1037,Finance & Accounting,Finance & Accounting,0.80330944
+1038,Other Services,Finance & Accounting,0.65493864
+1039,Other Services,Creative & Design,0.6508175
+1040,Finance & Accounting,Finance & Accounting,0.7182499
+1041,Other Services,Finance & Accounting,0.6491833
+1042,Other Services,Finance & Accounting,0.8089849
+1043,Other Services,Finance & Accounting,0.6717732
+1044,Other Services,Finance & Accounting,0.6792932
+1045,Finance & Accounting,Finance & Accounting,0.7279614
+1046,Other Services,Finance & Accounting,0.73573387
+1047,Other Services,Finance & Accounting,0.67134106
+1048,Other Services,Finance & Accounting,0.70651186
+1049,Other Services,Finance & Accounting,0.54237
+1050,Finance & Accounting,Finance & Accounting,0.77913713
+1051,Other Services,Finance & Accounting,0.5936438
+1052,Other Services,Finance & Accounting,0.74466205
+1053,Other Services,Finance & Accounting,0.62787074
+1054,Other Services,Finance & Accounting,0.7022315
+1055,Other Services,Finance & Accounting,0.6372788
+1056,Other Services,Finance & Accounting,0.7147497
+1057,Other Services,Finance & Accounting,0.66598046
+1058,Other Services,Finance & Accounting,0.7737447
+1059,Other Services,Finance & Accounting,0.63056475
+1060,Other Services,Finance & Accounting,0.71054137
+1061,Other Services,Finance & Accounting,0.6099223
+1062,Other Services,Finance & Accounting,0.60673845
+1063,Other Services,Finance & Accounting,0.66494656
+1064,Other Services,Finance & Accounting,0.6408393
+1065,Other Services,Finance & Accounting,0.6839887
+1066,Other Services,Finance & Accounting,0.70517385
+1067,Other Services,Finance & Accounting,0.7083911
+1068,Other Services,Finance & Accounting,0.62215114
+1069,Other Services,Finance & Accounting,0.6919701
+1070,Other Services,Finance & Accounting,0.65597045
+1071,Other Services,Finance & Accounting,0.6841148
+1072,Other Services,Finance & Accounting,0.6294333
+1073,Healthcare,Finance & Accounting,0.601529
+1074,Other Services,Finance & Accounting,0.6378938
+1075,Other Services,Finance & Accounting,0.69660234
+1076,Other Services,Finance & Accounting,0.6861743
+1077,Other Services,Finance & Accounting,0.710637
+1078,Other Services,Finance & Accounting,0.6686996
+1079,Other Services,Finance & Accounting,0.5953734
+1080,Other Services,Finance & Accounting,0.6851114
+1081,Other Services,Finance & Accounting,0.6965794
+1082,Other Services,Finance & Accounting,0.63687426
+1083,Creative & Design,Finance & Accounting,0.64415956
+1084,Other Services,Finance & Accounting,0.7447132
+1085,Other Services,Finance & Accounting,0.6436142
+1086,Other Services,Finance & Accounting,0.68659216
+1087,Creative & Design,Finance & Accounting,0.6018654
+1088,Other Services,Finance & Accounting,0.6703419
+1089,Other Services,Finance & Accounting,0.6710063
+1090,Other Services,Finance & Accounting,0.7187364
+1091,Tech & IT,Tech & IT,0.77413154
+1092,Other Services,Finance & Accounting,0.5933667
+1093,Other Services,Finance & Accounting,0.71593094
+1094,Other Services,Finance & Accounting,0.6443178
+1095,Other Services,Finance & Accounting,0.7414339
+1096,Other Services,Finance & Accounting,0.65189695
+1097,Other Services,Finance & Accounting,0.6984298
+1098,Creative & Design,Finance & Accounting,0.6904175
+1099,Other Services,Finance & Accounting,0.69894874
+1100,Other Services,Finance & Accounting,0.57691693
+1101,Finance & Accounting,Finance & Accounting,0.78805757
+1102,Other Services,Finance & Accounting,0.60674834
+1103,Other Services,Finance & Accounting,0.703701
+1104,Manufacturing & Construction,Finance & Accounting,0.7987704
+1105,Other Services,Finance & Accounting,0.62889403
+1106,Finance & Accounting,Finance & Accounting,0.741683
+1107,Other Services,Finance & Accounting,0.5983429
+1108,Other Services,Finance & Accounting,0.65839374
+1109,Other Services,Finance & Accounting,0.761775
+1110,HR & Operations,Finance & Accounting,0.7013668
+1111,Tech & IT,Tech & IT,0.7582134
+1112,Creative & Design,Finance & Accounting,0.6522282
+1113,Finance & Accounting,Finance & Accounting,0.78958267
+1114,Tech & IT,Finance & Accounting,0.72179115
+1115,Tech & IT,Tech & IT,0.7998386
+1116,Healthcare,Finance & Accounting,0.5644131
+1117,Tech & IT,Tech & IT,0.73733884
+1118,Tech & IT,Tech & IT,0.83058536
+1119,Tech & IT,Finance & Accounting,0.7505849
+1120,Finance & Accounting,Finance & Accounting,0.73112273
+1121,Other Services,Finance & Accounting,0.75456893
+1122,Finance & Accounting,Finance & Accounting,0.703328
+1123,Finance & Accounting,Finance & Accounting,0.7681923
+1124,Tech & IT,Finance & Accounting,0.795212
+1125,Tech & IT,Finance & Accounting,0.7847971
+1126,Healthcare,Finance & Accounting,0.5889807
+1127,Tech & IT,Tech & IT,0.74510777
+1128,Finance & Accounting,Finance & Accounting,0.7525414
+1129,Healthcare,Finance & Accounting,0.66066754
+1130,Creative & Design,Finance & Accounting,0.7305057
+1131,Finance & Accounting,Finance & Accounting,0.7532164
+1132,Creative & Design,Finance & Accounting,0.6988139
+1133,Healthcare,Finance & Accounting,0.70143783
+1134,Finance & Accounting,Finance & Accounting,0.6940107
+1135,Healthcare,Finance & Accounting,0.66252697
+1136,Finance & Accounting,Finance & Accounting,0.72158873
+1137,Tech & IT,Finance & Accounting,0.7508418
+1138,Tech & IT,Tech & IT,0.7691266
+1139,Tech & IT,Tech & IT,0.73082674
+1140,Healthcare,Finance & Accounting,0.6553073
+1141,Healthcare,Finance & Accounting,0.59835535
+1142,Tech & IT,Finance & Accounting,0.72974443
+1143,Finance & Accounting,Finance & Accounting,0.66233623
+1144,Finance & Accounting,Finance & Accounting,0.70432556
+1145,Finance & Accounting,Finance & Accounting,0.7458565
+1146,Creative & Design,Finance & Accounting,0.6540129
+1147,Tech & IT,Tech & IT,0.8009062
+1148,Creative & Design,Finance & Accounting,0.7159321
+1149,Creative & Design,Finance & Accounting,0.68112403
+1150,Finance & Accounting,Finance & Accounting,0.72092915
+1151,Finance & Accounting,Finance & Accounting,0.7191482
+1152,Tech & IT,Finance & Accounting,0.72094876
+1153,Tech & IT,Tech & IT,0.70637035
+1154,Finance & Accounting,Finance & Accounting,0.7917711
+1155,Finance & Accounting,Finance & Accounting,0.7445623
+1156,Finance & Accounting,Finance & Accounting,0.7463428
+1157,Tech & IT,Tech & IT,0.6990975
+1158,Manufacturing & Construction,Finance & Accounting,0.650675
+1159,Healthcare,Finance & Accounting,0.5597303
+1160,Tech & IT,Tech & IT,0.63862157
+1161,Tech & IT,Finance & Accounting,0.81082857
+1162,Finance & Accounting,Finance & Accounting,0.7172216
+1163,Tech & IT,Tech & IT,0.73175466
+1164,Healthcare,Finance & Accounting,0.6426353
+1165,Healthcare,Finance & Accounting,0.70313007
+1166,Healthcare,Finance & Accounting,0.74148965
+1167,Tech & IT,Finance & Accounting,0.6612329
+1168,Healthcare,Finance & Accounting,0.5478642
+1169,Finance & Accounting,Finance & Accounting,0.69832426
+1170,HR & Operations,Finance & Accounting,0.73551726
+1171,Finance & Accounting,Finance & Accounting,0.689038
+1172,Finance & Accounting,Finance & Accounting,0.7599292
+1173,Manufacturing & Construction,Finance & Accounting,0.7841755
+1174,HR & Operations,Finance & Accounting,0.6646793
+1175,Healthcare,Finance & Accounting,0.7564739
+1176,Tech & IT,Tech & IT,0.78661364
+1177,Healthcare,Finance & Accounting,0.71239936
+1178,Healthcare,Finance & Accounting,0.68198824
+1179,Tech & IT,Tech & IT,0.7042334
+1180,Tech & IT,Tech & IT,0.78599524
+1181,Creative & Design,Finance & Accounting,0.5815362
+1182,Healthcare,Finance & Accounting,0.54389054
+1183,Healthcare,Finance & Accounting,0.46168855
+1184,Tech & IT,Tech & IT,0.80654883
+1185,Finance & Accounting,Finance & Accounting,0.74568915
+1186,Finance & Accounting,Finance & Accounting,0.648173
+1187,Tech & IT,Tech & IT,0.76863706
+1188,Finance & Accounting,Finance & Accounting,0.71628785
+1189,Finance & Accounting,Finance & Accounting,0.5975003
+1190,Tech & IT,Finance & Accounting,0.69443125
+1191,Finance & Accounting,Finance & Accounting,0.7490561
+1192,Healthcare,Finance & Accounting,0.5625
+1193,Other Services,Finance & Accounting,0.74962676
+1194,Tech & IT,Finance & Accounting,0.75340384
+1195,Tech & IT,Tech & IT,0.792967
+1196,Finance & Accounting,Finance & Accounting,0.7989061
+1197,Finance & Accounting,Finance & Accounting,0.77781856
+1198,Finance & Accounting,Finance & Accounting,0.7077375
+1199,Finance & Accounting,Finance & Accounting,0.69473845
+1200,HR & Operations,Finance & Accounting,0.73094153
+1201,Tech & IT,Finance & Accounting,0.7469798
+1202,Finance & Accounting,Finance & Accounting,0.7698494
+1203,Finance & Accounting,Finance & Accounting,0.62065005
+1204,Manufacturing & Construction,Finance & Accounting,0.7232186
+1205,Other Services,Finance & Accounting,0.7487657
+1206,Other Services,Finance & Accounting,0.7173023
+1207,Finance & Accounting,Finance & Accounting,0.76032627
+1208,Creative & Design,Finance & Accounting,0.6654114
+1209,Finance & Accounting,Finance & Accounting,0.58604246
+1210,Manufacturing & Construction,Finance & Accounting,0.61623144
+1211,Tech & IT,Tech & IT,0.79749966
+1212,Healthcare,Finance & Accounting,0.6259037
+1213,Finance & Accounting,Finance & Accounting,0.694063
+1214,Tech & IT,Tech & IT,0.73913646
+1215,Finance & Accounting,Finance & Accounting,0.7632808
+1216,Finance & Accounting,Finance & Accounting,0.76681405
+1217,Hospitality & Food,Finance & Accounting,0.65666103
+1218,Tech & IT,Tech & IT,0.7244868
+1219,Creative & Design,Finance & Accounting,0.73869526
+1220,Tech & IT,Tech & IT,0.79699135
+1221,Finance & Accounting,Finance & Accounting,0.7700724
+1222,Finance & Accounting,Finance & Accounting,0.70072556
+1223,Finance & Accounting,Finance & Accounting,0.6053195
+1224,Creative & Design,Finance & Accounting,0.6764971
+1225,Creative & Design,Finance & Accounting,0.5871886
+1226,Creative & Design,Finance & Accounting,0.71833956
+1227,Creative & Design,Creative & Design,0.61782783
+1228,Creative & Design,Finance & Accounting,0.6498498
+1229,Other Services,Finance & Accounting,0.639735
+1230,Creative & Design,Finance & Accounting,0.67337537
+1231,Creative & Design,Finance & Accounting,0.6763599
+1232,Creative & Design,Finance & Accounting,0.60754526
+1233,Healthcare,Finance & Accounting,0.61825055
+1234,Tech & IT,Tech & IT,0.60416293
+1235,Creative & Design,Finance & Accounting,0.7162881
+1236,Creative & Design,Creative & Design,0.7079307
+1237,Finance & Accounting,Finance & Accounting,0.7366297
+1238,Finance & Accounting,Finance & Accounting,0.700731
+1239,Tech & IT,Tech & IT,0.7237407
+1240,Creative & Design,Finance & Accounting,0.73134565
+1241,Creative & Design,Finance & Accounting,0.67357886
+1242,Education,Creative & Design,0.4806142
+1243,Creative & Design,Finance & Accounting,0.55246913
+1244,Manufacturing & Construction,Finance & Accounting,0.7147445
+1245,Creative & Design,Finance & Accounting,0.54946154
+1246,HR & Operations,Finance & Accounting,0.6270981
+1247,Tech & IT,Finance & Accounting,0.7729384
+1248,Other Services,Finance & Accounting,0.6690855
+1249,Creative & Design,Creative & Design,0.5770581
+1250,Creative & Design,Finance & Accounting,0.6943585
+1251,Tech & IT,Tech & IT,0.8432286
+1252,Creative & Design,Finance & Accounting,0.6556432
+1253,Tech & IT,Tech & IT,0.7569152
+1254,Finance & Accounting,Finance & Accounting,0.75283206
+1255,Creative & Design,Finance & Accounting,0.6127578
+1256,Creative & Design,Creative & Design,0.6257124
+1257,Creative & Design,Finance & Accounting,0.72412
+1258,Tech & IT,Tech & IT,0.75370747
+1259,Creative & Design,Finance & Accounting,0.6977136
+1260,Creative & Design,Finance & Accounting,0.7300122
+1261,Finance & Accounting,Finance & Accounting,0.71323913
+1262,Finance & Accounting,Finance & Accounting,0.63145477
+1263,Finance & Accounting,Finance & Accounting,0.7180495
+1264,Creative & Design,Finance & Accounting,0.62795496
+1265,Creative & Design,Finance & Accounting,0.73216355
+1266,Finance & Accounting,Finance & Accounting,0.7369463
+1267,Creative & Design,Finance & Accounting,0.6369559
+1268,Creative & Design,Finance & Accounting,0.64453256
+1269,HR & Operations,Finance & Accounting,0.5113213
+1270,Healthcare,Finance & Accounting,0.7117142
+1271,Creative & Design,Finance & Accounting,0.5918246
+1272,HR & Operations,Finance & Accounting,0.6195439
+1273,Creative & Design,Finance & Accounting,0.69020605
+1274,Creative & Design,Finance & Accounting,0.70655656
+1275,Creative & Design,Finance & Accounting,0.6071213
+1276,Creative & Design,Finance & Accounting,0.6511456
+1277,Creative & Design,Finance & Accounting,0.6895621
+1278,Creative & Design,Finance & Accounting,0.58714706
+1279,Creative & Design,Finance & Accounting,0.7131623
+1280,Creative & Design,Finance & Accounting,0.70972526
+1281,Creative & Design,Finance & Accounting,0.69233036
+1282,Finance & Accounting,Finance & Accounting,0.7332402
+1283,Creative & Design,Finance & Accounting,0.48480642
+1284,Creative & Design,Finance & Accounting,0.6353936
+1285,Creative & Design,Finance & Accounting,0.61374795
+1286,Tech & IT,Finance & Accounting,0.7503457
+1287,Creative & Design,Finance & Accounting,0.7240007
+1288,Creative & Design,Finance & Accounting,0.6822239
+1289,Creative & Design,Finance & Accounting,0.60103565
+1290,Creative & Design,Finance & Accounting,0.7034944
+1291,Creative & Design,Finance & Accounting,0.63689876
+1292,Finance & Accounting,Finance & Accounting,0.6964845
+1293,Creative & Design,Finance & Accounting,0.56472296
+1294,Finance & Accounting,Finance & Accounting,0.792451
+1295,Creative & Design,Finance & Accounting,0.70144707
+1296,Tech & IT,Finance & Accounting,0.7467
+1297,Creative & Design,Finance & Accounting,0.5538833
+1298,Creative & Design,Finance & Accounting,0.65996313
+1299,Creative & Design,Finance & Accounting,0.7349758
+1300,Creative & Design,Finance & Accounting,0.6392175
+1301,Other Services,Finance & Accounting,0.6711577
+1302,Other Services,Finance & Accounting,0.6498985
+1303,Finance & Accounting,Finance & Accounting,0.7147984
+1304,Creative & Design,Finance & Accounting,0.74422157
+1305,Creative & Design,Finance & Accounting,0.6839464
+1306,Tech & IT,Creative & Design,0.6169286
+1307,Creative & Design,Finance & Accounting,0.70543647
+1308,Manufacturing & Construction,Finance & Accounting,0.76014715
+1309,Creative & Design,Finance & Accounting,0.5902842
+1310,Creative & Design,Finance & Accounting,0.7376858
+1311,Creative & Design,Finance & Accounting,0.7016585
+1312,Creative & Design,Finance & Accounting,0.6727661
+1313,Creative & Design,Finance & Accounting,0.663259
+1314,Creative & Design,Finance & Accounting,0.6607113
+1315,Creative & Design,Finance & Accounting,0.6423809
+1316,Creative & Design,Finance & Accounting,0.72333497
+1317,Creative & Design,Finance & Accounting,0.7024171
+1318,Creative & Design,Finance & Accounting,0.5963725
+1319,Creative & Design,Finance & Accounting,0.74060655
+1320,Creative & Design,Finance & Accounting,0.640512
+1321,HR & Operations,Finance & Accounting,0.66221356
+1322,Other Services,Finance & Accounting,0.6713797
+1323,Tech & IT,Tech & IT,0.7016092
+1324,Other Services,Finance & Accounting,0.71022433
+1325,Healthcare,Finance & Accounting,0.66774565
+1326,Education,Finance & Accounting,0.6577317
+1327,Manufacturing & Construction,Finance & Accounting,0.71446115
+1328,Creative & Design,Finance & Accounting,0.7108469
+1329,Healthcare,Finance & Accounting,0.6400518
+1330,Other Services,Finance & Accounting,0.7463807
+1331,Healthcare,Finance & Accounting,0.673665
+1332,HR & Operations,Finance & Accounting,0.6223368
+1333,Healthcare,Finance & Accounting,0.6495961
+1334,Other Services,Finance & Accounting,0.76699257
+1335,Finance & Accounting,Finance & Accounting,0.64601463
+1336,Finance & Accounting,Finance & Accounting,0.730886
+1337,Finance & Accounting,Finance & Accounting,0.66536796
+1338,Healthcare,Finance & Accounting,0.7573897
+1339,Finance & Accounting,Finance & Accounting,0.67257017
+1340,Healthcare,Finance & Accounting,0.75270224
+1341,Healthcare,Finance & Accounting,0.72956675
+1342,Healthcare,Finance & Accounting,0.6360115
+1343,Healthcare,Finance & Accounting,0.7521807
+1344,Tech & IT,Tech & IT,0.8019269
+1345,Healthcare,Finance & Accounting,0.54805243
+1346,Finance & Accounting,Finance & Accounting,0.7003081
+1347,Other Services,Finance & Accounting,0.741104
+1348,Manufacturing & Construction,Tech & IT,0.68319476
+1349,Tech & IT,Finance & Accounting,0.6877734
+1350,Healthcare,Finance & Accounting,0.62861425
+1351,Other Services,Finance & Accounting,0.67309374
+1352,Other Services,Finance & Accounting,0.79042727
+1353,Finance & Accounting,Finance & Accounting,0.7907161
+1354,HR & Operations,Finance & Accounting,0.6729667
+1355,Healthcare,Finance & Accounting,0.60319054
+1356,Tech & IT,Finance & Accounting,0.6499493
+1357,Hospitality & Food,Finance & Accounting,0.627429
+1358,Hospitality & Food,Finance & Accounting,0.5601872
+1359,Hospitality & Food,Finance & Accounting,0.6811768
+1360,Hospitality & Food,Finance & Accounting,0.5634285
+1361,Hospitality & Food,Finance & Accounting,0.6198124
+1362,Hospitality & Food,Finance & Accounting,0.5263669
+1363,Hospitality & Food,Finance & Accounting,0.60966605
+1364,Hospitality & Food,Finance & Accounting,0.5659748
+1365,Hospitality & Food,Finance & Accounting,0.6057985
+1366,Hospitality & Food,Finance & Accounting,0.6229335
+1367,Hospitality & Food,Finance & Accounting,0.542195
+1368,Hospitality & Food,Finance & Accounting,0.614614
+1369,Hospitality & Food,Finance & Accounting,0.60976446
+1370,Hospitality & Food,Finance & Accounting,0.5124835
+1371,Hospitality & Food,Finance & Accounting,0.6295911
+1372,Hospitality & Food,Finance & Accounting,0.4568315
+1373,Hospitality & Food,Finance & Accounting,0.5995836
+1374,Hospitality & Food,Finance & Accounting,0.571074
+1375,Hospitality & Food,Finance & Accounting,0.5117197
+1376,Hospitality & Food,Finance & Accounting,0.5804262
+1377,Hospitality & Food,Finance & Accounting,0.6202241
+1378,Hospitality & Food,Finance & Accounting,0.56071985
+1379,Hospitality & Food,Finance & Accounting,0.5625831
+1380,Hospitality & Food,Finance & Accounting,0.48504746
+1381,Hospitality & Food,Finance & Accounting,0.54198396
+1382,Hospitality & Food,Finance & Accounting,0.52429736
+1383,Hospitality & Food,Finance & Accounting,0.65637195
+1384,Hospitality & Food,Finance & Accounting,0.62082857
+1385,Hospitality & Food,Finance & Accounting,0.668629
+1386,Hospitality & Food,Finance & Accounting,0.50893724
+1387,Hospitality & Food,Finance & Accounting,0.5542796
+1388,Hospitality & Food,Finance & Accounting,0.5486672
+1389,Hospitality & Food,Finance & Accounting,0.6655558
+1390,Hospitality & Food,Finance & Accounting,0.5407747
+1391,Hospitality & Food,Finance & Accounting,0.527369
+1392,Hospitality & Food,Finance & Accounting,0.57999825
+1393,Hospitality & Food,Finance & Accounting,0.50265086
+1394,Hospitality & Food,Finance & Accounting,0.61024976
+1395,Hospitality & Food,Finance & Accounting,0.5872592
+1396,Hospitality & Food,Finance & Accounting,0.7029745
+1397,Hospitality & Food,Finance & Accounting,0.5740674
+1398,Hospitality & Food,Finance & Accounting,0.5846613
+1399,Hospitality & Food,Finance & Accounting,0.5048873
+1400,Hospitality & Food,Finance & Accounting,0.567507
+1401,Hospitality & Food,Finance & Accounting,0.57504773
+1402,Hospitality & Food,Finance & Accounting,0.65760994
+1403,Hospitality & Food,Finance & Accounting,0.5794335
+1404,Hospitality & Food,Finance & Accounting,0.44572693
+1405,Hospitality & Food,Finance & Accounting,0.5860499
+1406,Hospitality & Food,Finance & Accounting,0.578375
+1407,Hospitality & Food,Finance & Accounting,0.567069
+1408,Hospitality & Food,Finance & Accounting,0.5395087
+1409,Hospitality & Food,Finance & Accounting,0.58498263
+1410,Hospitality & Food,Finance & Accounting,0.4879743
+1411,Hospitality & Food,Finance & Accounting,0.56131786
+1412,Hospitality & Food,Finance & Accounting,0.42495146
+1413,Hospitality & Food,Finance & Accounting,0.5225868
+1414,Hospitality & Food,Finance & Accounting,0.5635874
+1415,Hospitality & Food,Finance & Accounting,0.6084964
+1416,Hospitality & Food,Finance & Accounting,0.51254785
+1417,Hospitality & Food,Finance & Accounting,0.5712966
+1418,Hospitality & Food,Finance & Accounting,0.6171621
+1419,Hospitality & Food,Finance & Accounting,0.6321866
+1420,Hospitality & Food,Finance & Accounting,0.46118116
+1421,Hospitality & Food,Finance & Accounting,0.53217745
+1422,Hospitality & Food,Finance & Accounting,0.44501233
+1423,Hospitality & Food,Finance & Accounting,0.5226301
+1424,Hospitality & Food,Finance & Accounting,0.5041504
+1425,Hospitality & Food,Finance & Accounting,0.54470706
+1426,Hospitality & Food,Finance & Accounting,0.5981589
+1427,Hospitality & Food,Finance & Accounting,0.5085405
+1428,Hospitality & Food,Finance & Accounting,0.5932658
+1429,Hospitality & Food,Finance & Accounting,0.46156347
+1430,Hospitality & Food,Finance & Accounting,0.5121144
+1431,Hospitality & Food,Finance & Accounting,0.6174917
+1432,Hospitality & Food,Finance & Accounting,0.5800269
+1433,Hospitality & Food,Finance & Accounting,0.601884
+1434,Hospitality & Food,Finance & Accounting,0.4715591
+1435,Hospitality & Food,Finance & Accounting,0.6253054
+1436,Hospitality & Food,Finance & Accounting,0.557986
+1437,Hospitality & Food,Finance & Accounting,0.53443706
+1438,Hospitality & Food,Finance & Accounting,0.430368
+1439,Hospitality & Food,Finance & Accounting,0.5198963
+1440,Hospitality & Food,Finance & Accounting,0.47476166
+1441,Hospitality & Food,Finance & Accounting,0.5036012
+1442,Hospitality & Food,Finance & Accounting,0.5969408
+1443,Hospitality & Food,Finance & Accounting,0.5576296
+1444,Hospitality & Food,Finance & Accounting,0.6207073
+1445,Hospitality & Food,Finance & Accounting,0.7340393
+1446,Hospitality & Food,Finance & Accounting,0.5374208
+1447,Hospitality & Food,Finance & Accounting,0.59983796
+1448,Hospitality & Food,Finance & Accounting,0.4767823
+1449,Hospitality & Food,Finance & Accounting,0.47564232
+1450,Hospitality & Food,Finance & Accounting,0.46811423
+1451,Hospitality & Food,Finance & Accounting,0.5739954
+1452,Other Services,Finance & Accounting,0.65633744
+1453,Other Services,Finance & Accounting,0.55944204
+1454,Education,Finance & Accounting,0.68211484
+1455,Creative & Design,Finance & Accounting,0.6575321
+1456,Creative & Design,Finance & Accounting,0.50286627
+1457,Hospitality & Food,Finance & Accounting,0.6219521
+1458,Hospitality & Food,Finance & Accounting,0.42175058
+1459,Other Services,Finance & Accounting,0.61858904
+1460,HR & Operations,Finance & Accounting,0.694453
+1461,Hospitality & Food,Finance & Accounting,0.6507939
+1462,HR & Operations,Finance & Accounting,0.5910468
+1463,Other Services,Finance & Accounting,0.7193681
+1464,Healthcare,Finance & Accounting,0.6398579
+1465,Hospitality & Food,Finance & Accounting,0.60457224
+1466,Healthcare,Finance & Accounting,0.69276524
+1467,Creative & Design,Finance & Accounting,0.66869
+1468,Other Services,Finance & Accounting,0.5528268
+1469,Hospitality & Food,Finance & Accounting,0.6427503
+1470,Hospitality & Food,Finance & Accounting,0.57890093
+1471,Education,Creative & Design,0.5606492
+1472,Finance & Accounting,Finance & Accounting,0.7249735
+1473,Hospitality & Food,Finance & Accounting,0.56102705
+1474,Hospitality & Food,Finance & Accounting,0.5687604
+1475,Finance & Accounting,Finance & Accounting,0.832281
+1476,Finance & Accounting,Finance & Accounting,0.6516334
+1477,Healthcare,Finance & Accounting,0.7029756
+1478,Finance & Accounting,Finance & Accounting,0.7052548
+1479,Finance & Accounting,Finance & Accounting,0.73391604
+1480,Finance & Accounting,Finance & Accounting,0.8114546
+1481,Finance & Accounting,Finance & Accounting,0.7466543
+1482,Finance & Accounting,Finance & Accounting,0.73600435
+1483,Finance & Accounting,Finance & Accounting,0.7568431
+1484,Finance & Accounting,Finance & Accounting,0.7935988
+1485,Finance & Accounting,Finance & Accounting,0.7577958
+1486,Finance & Accounting,Finance & Accounting,0.8073849
+1487,Finance & Accounting,Finance & Accounting,0.7536984
+1488,Other Services,Finance & Accounting,0.7564806
+1489,Finance & Accounting,Finance & Accounting,0.7852988
+1490,Finance & Accounting,Finance & Accounting,0.7621198
+1491,Finance & Accounting,Finance & Accounting,0.7505285
+1492,Finance & Accounting,Finance & Accounting,0.7326137
+1493,Finance & Accounting,Finance & Accounting,0.7068824
+1494,Finance & Accounting,Finance & Accounting,0.7488137
+1495,Finance & Accounting,Finance & Accounting,0.80127543
+1496,Finance & Accounting,Finance & Accounting,0.78382814
+1497,Finance & Accounting,Finance & Accounting,0.7603005
+1498,Finance & Accounting,Finance & Accounting,0.7210665
+1499,Finance & Accounting,Finance & Accounting,0.78989387
+1500,Finance & Accounting,Finance & Accounting,0.76670665
+1501,Other Services,Finance & Accounting,0.7149819
+1502,Finance & Accounting,Finance & Accounting,0.72239715
+1503,Finance & Accounting,Finance & Accounting,0.7233685
+1504,Finance & Accounting,Finance & Accounting,0.650766
+1505,Finance & Accounting,Finance & Accounting,0.76084054
+1506,Finance & Accounting,Finance & Accounting,0.76817906
+1507,Finance & Accounting,Finance & Accounting,0.72488344
+1508,Creative & Design,Finance & Accounting,0.6117946
+1509,Finance & Accounting,Finance & Accounting,0.7621198
+1510,Finance & Accounting,Finance & Accounting,0.7322444
+1511,Other Services,Finance & Accounting,0.7318796
+1512,Finance & Accounting,Finance & Accounting,0.6024631
+1513,Finance & Accounting,Finance & Accounting,0.7310926
+1514,Finance & Accounting,Finance & Accounting,0.7431197
+1515,Finance & Accounting,Finance & Accounting,0.76793814
+1516,Finance & Accounting,Finance & Accounting,0.6663472
+1517,Finance & Accounting,Finance & Accounting,0.7738287
+1518,Finance & Accounting,Finance & Accounting,0.76714826
+1519,Finance & Accounting,Finance & Accounting,0.62213063
+1520,Finance & Accounting,Finance & Accounting,0.78162885
+1521,Finance & Accounting,Finance & Accounting,0.69086015
+1522,Finance & Accounting,Finance & Accounting,0.7813515
+1523,Other Services,Finance & Accounting,0.67640936
+1524,Finance & Accounting,Finance & Accounting,0.6713952
+1525,Finance & Accounting,Finance & Accounting,0.7519662
+1526,Other Services,Finance & Accounting,0.6288737
+1527,Finance & Accounting,Finance & Accounting,0.733754
+1528,Finance & Accounting,Finance & Accounting,0.81065285
+1529,Finance & Accounting,Finance & Accounting,0.7867736
+1530,Finance & Accounting,Finance & Accounting,0.7652147
+1531,Finance & Accounting,Finance & Accounting,0.7581488
+1532,Finance & Accounting,Finance & Accounting,0.74074286
+1533,Other Services,Finance & Accounting,0.6420145
+1534,Finance & Accounting,Finance & Accounting,0.7994509
+1535,Finance & Accounting,Finance & Accounting,0.7361115
+1536,Finance & Accounting,Finance & Accounting,0.8021462
+1537,Finance & Accounting,Finance & Accounting,0.7284609
+1538,Finance & Accounting,Finance & Accounting,0.7711711
+1539,Finance & Accounting,Finance & Accounting,0.69680107
+1540,Finance & Accounting,Finance & Accounting,0.80766964
+1541,Finance & Accounting,Finance & Accounting,0.752886
+1542,Finance & Accounting,Finance & Accounting,0.7194637
+1543,Creative & Design,Finance & Accounting,0.60857916
+1544,Finance & Accounting,Finance & Accounting,0.7395605
+1545,Finance & Accounting,Finance & Accounting,0.8370399
+1546,Tech & IT,Finance & Accounting,0.792837
+1547,Finance & Accounting,Finance & Accounting,0.67112124
+1548,Finance & Accounting,Finance & Accounting,0.78808665
+1549,Finance & Accounting,Finance & Accounting,0.77133906
+1550,Finance & Accounting,Finance & Accounting,0.75130457
+1551,Finance & Accounting,Finance & Accounting,0.7489916
+1552,Finance & Accounting,Finance & Accounting,0.7005531
+1553,Finance & Accounting,Finance & Accounting,0.77219945
+1554,Finance & Accounting,Finance & Accounting,0.66987264
+1555,Finance & Accounting,Finance & Accounting,0.8053836
+1556,Finance & Accounting,Finance & Accounting,0.77232003
+1557,Finance & Accounting,Finance & Accounting,0.7620944
+1558,Finance & Accounting,Finance & Accounting,0.7502155
+1559,Finance & Accounting,Finance & Accounting,0.76400685
+1560,Finance & Accounting,Finance & Accounting,0.74089634
+1561,Finance & Accounting,Finance & Accounting,0.74990094
+1562,Finance & Accounting,Finance & Accounting,0.7552705
+1563,Finance & Accounting,Finance & Accounting,0.7383581
+1564,Finance & Accounting,Finance & Accounting,0.7458608
+1565,Finance & Accounting,Finance & Accounting,0.81138575
+1566,Finance & Accounting,Finance & Accounting,0.6531728
+1567,Finance & Accounting,Finance & Accounting,0.7749449
+1568,Finance & Accounting,Finance & Accounting,0.7622354
+1569,Finance & Accounting,Finance & Accounting,0.73922694
+1570,Finance & Accounting,Finance & Accounting,0.784072
+1571,Finance & Accounting,Finance & Accounting,0.75513506
+1572,Healthcare,Finance & Accounting,0.57620263
+1573,Finance & Accounting,Finance & Accounting,0.77486116
+1574,Finance & Accounting,Finance & Accounting,0.79710746
+1575,Finance & Accounting,Finance & Accounting,0.6201602
+1576,Finance & Accounting,Finance & Accounting,0.7698692
+1577,Finance & Accounting,Finance & Accounting,0.748315
+1578,Finance & Accounting,Finance & Accounting,0.76163965
+1579,Finance & Accounting,Finance & Accounting,0.7895289
+1580,Finance & Accounting,Finance & Accounting,0.7985402
+1581,Finance & Accounting,Finance & Accounting,0.75577724
+1582,Finance & Accounting,Finance & Accounting,0.67799574
+1583,HR & Operations,Finance & Accounting,0.70956933
+1584,Finance & Accounting,Finance & Accounting,0.77749145
+1585,Finance & Accounting,Finance & Accounting,0.73166275
+1586,Finance & Accounting,Finance & Accounting,0.77968276
+1587,Finance & Accounting,Finance & Accounting,0.728461
+1588,Finance & Accounting,Finance & Accounting,0.7615125
+1589,Finance & Accounting,Finance & Accounting,0.7803475
+1590,Finance & Accounting,Finance & Accounting,0.7782694
+1591,Finance & Accounting,Finance & Accounting,0.76043856
+1592,Finance & Accounting,Finance & Accounting,0.79259694
+1593,Other Services,Finance & Accounting,0.64148986
+1594,Other Services,Finance & Accounting,0.6948379
+1595,Creative & Design,Finance & Accounting,0.6091869
+1596,Manufacturing & Construction,Finance & Accounting,0.63018763
+1597,Other Services,Finance & Accounting,0.6492678
+1598,Other Services,Finance & Accounting,0.61060315
+1599,Other Services,Finance & Accounting,0.6146419
+1600,Creative & Design,Creative & Design,0.71611077
+1601,Other Services,Finance & Accounting,0.6141396
+1602,Other Services,Finance & Accounting,0.5567548
+1603,Other Services,Finance & Accounting,0.5839482
+1604,Creative & Design,Finance & Accounting,0.6208475
+1605,Manufacturing & Construction,Finance & Accounting,0.6575722
+1606,HR & Operations,Finance & Accounting,0.62743473
+1607,Other Services,Finance & Accounting,0.6495113
+1608,Tech & IT,Finance & Accounting,0.75820756
+1609,Creative & Design,Finance & Accounting,0.6916115
+1610,Other Services,Finance & Accounting,0.65049374
+1611,Healthcare,Finance & Accounting,0.4980132
+1612,Other Services,Finance & Accounting,0.73877966
+1613,Finance & Accounting,Finance & Accounting,0.79606664
+1614,Creative & Design,Finance & Accounting,0.66717815
+1615,Education,Finance & Accounting,0.6068822
+1616,Other Services,Finance & Accounting,0.6660856
+1617,Healthcare,Finance & Accounting,0.61091936
+1618,HR & Operations,Finance & Accounting,0.6119434
+1619,Creative & Design,Finance & Accounting,0.6217034
+1620,Other Services,Finance & Accounting,0.6890175
+1621,Other Services,Finance & Accounting,0.56243783
+1622,Creative & Design,Creative & Design,0.5216867
+1623,Finance & Accounting,Finance & Accounting,0.76008403
+1624,Manufacturing & Construction,Finance & Accounting,0.6829717
+1625,Finance & Accounting,Finance & Accounting,0.7597989
+1626,Finance & Accounting,Finance & Accounting,0.7798677
+1627,Finance & Accounting,Finance & Accounting,0.72974336
+1628,Creative & Design,Creative & Design,0.6197722
+1629,Other Services,Finance & Accounting,0.7467295
+1630,Creative & Design,Creative & Design,0.59908414
+1631,Other Services,Finance & Accounting,0.6499555
+1632,Manufacturing & Construction,Finance & Accounting,0.7331042
+1633,Other Services,Finance & Accounting,0.6783755
+1634,Creative & Design,Finance & Accounting,0.611984
+1635,Creative & Design,Creative & Design,0.6578005
+1636,Creative & Design,Creative & Design,0.6783392
+1637,Other Services,Finance & Accounting,0.5858309
+1638,Creative & Design,Creative & Design,0.6285329
+1639,Finance & Accounting,Finance & Accounting,0.73008835
+1640,Other Services,Finance & Accounting,0.71265143
+1641,Tech & IT,Finance & Accounting,0.7865306
+1642,Finance & Accounting,Finance & Accounting,0.7010404
+1643,Other Services,Finance & Accounting,0.6358749
+1644,Healthcare,Finance & Accounting,0.578256
+1645,Other Services,Finance & Accounting,0.5547092
+1646,Other Services,Finance & Accounting,0.5327201
+1647,Other Services,Finance & Accounting,0.64747953
+1648,Other Services,Finance & Accounting,0.7438039
+1649,Manufacturing & Construction,Finance & Accounting,0.54295874
+1650,Manufacturing & Construction,Finance & Accounting,0.6655553
+1651,Manufacturing & Construction,Finance & Accounting,0.6992635
+1652,Finance & Accounting,Finance & Accounting,0.7623043
+1653,Other Services,Finance & Accounting,0.45575702
+1654,Other Services,Finance & Accounting,0.6057688
+1655,Other Services,Finance & Accounting,0.68091893
+1656,Other Services,Finance & Accounting,0.7121997
+1657,Creative & Design,Creative & Design,0.5945709
+1658,Other Services,Finance & Accounting,0.7304113
+1659,Other Services,Finance & Accounting,0.5971825
+1660,Creative & Design,Finance & Accounting,0.50465405
+1661,Finance & Accounting,Finance & Accounting,0.7150692
+1662,Healthcare,Finance & Accounting,0.5331891
+1663,Finance & Accounting,Finance & Accounting,0.7383244
+1664,Creative & Design,Finance & Accounting,0.6588866
+1665,Creative & Design,Finance & Accounting,0.71642613
+1666,Tech & IT,Finance & Accounting,0.7771666
+1667,Other Services,Finance & Accounting,0.69543886
+1668,Healthcare,Finance & Accounting,0.7566297
+1669,Creative & Design,Finance & Accounting,0.6360494
+1670,Creative & Design,Finance & Accounting,0.6329504
+1671,Manufacturing & Construction,Finance & Accounting,0.7663568
+1672,Other Services,Finance & Accounting,0.70495665
+1673,HR & Operations,Finance & Accounting,0.7386148
+1674,Creative & Design,Finance & Accounting,0.51053447
+1675,Finance & Accounting,Finance & Accounting,0.7319044
+1676,Healthcare,Finance & Accounting,0.6533219
+1677,Other Services,Finance & Accounting,0.6642368
+1678,Other Services,Finance & Accounting,0.6189606
+1679,Finance & Accounting,Finance & Accounting,0.7779831
+1680,Other Services,Finance & Accounting,0.69870657
+1681,Creative & Design,Creative & Design,0.5795475
+1682,Finance & Accounting,Finance & Accounting,0.7252142
+1683,Finance & Accounting,Finance & Accounting,0.7501967
+1684,Other Services,Finance & Accounting,0.6380737
+1685,Other Services,Finance & Accounting,0.6154135
+1686,Education,Finance & Accounting,0.6569801
+1687,Creative & Design,Finance & Accounting,0.5398835
+1688,Manufacturing & Construction,Finance & Accounting,0.6094644
+1689,Finance & Accounting,Finance & Accounting,0.7203525
+1690,Manufacturing & Construction,Tech & IT,0.7087012
+1691,Manufacturing & Construction,Finance & Accounting,0.6825343
+1692,Manufacturing & Construction,Finance & Accounting,0.77356315
+1693,Manufacturing & Construction,Tech & IT,0.5985751
+1694,Manufacturing & Construction,Finance & Accounting,0.6187717
+1695,Tech & IT,Tech & IT,0.74327725
+1696,Manufacturing & Construction,Tech & IT,0.73093045
+1697,Manufacturing & Construction,Finance & Accounting,0.6883614
+1698,Manufacturing & Construction,Tech & IT,0.6985201
+1699,Manufacturing & Construction,Tech & IT,0.69518024
+1700,Manufacturing & Construction,Finance & Accounting,0.6909313
+1701,Manufacturing & Construction,Finance & Accounting,0.72469
+1702,Finance & Accounting,Finance & Accounting,0.771536
+1703,Manufacturing & Construction,Tech & IT,0.72986686
+1704,Manufacturing & Construction,Tech & IT,0.48626554
+1705,Manufacturing & Construction,Finance & Accounting,0.72060573
+1706,Manufacturing & Construction,Tech & IT,0.6193924
+1707,Tech & IT,Tech & IT,0.7085001
+1708,Tech & IT,Finance & Accounting,0.7644443
+1709,Manufacturing & Construction,Tech & IT,0.69640267
+1710,Manufacturing & Construction,Tech & IT,0.74965334
+1711,Other Services,Finance & Accounting,0.7246443
+1712,Tech & IT,Tech & IT,0.7520243
+1713,Manufacturing & Construction,Finance & Accounting,0.6604744
+1714,Manufacturing & Construction,Finance & Accounting,0.660285
+1715,Manufacturing & Construction,Tech & IT,0.6785591
+1716,Manufacturing & Construction,Tech & IT,0.5939199
+1717,Manufacturing & Construction,Tech & IT,0.6189675
+1718,Finance & Accounting,Finance & Accounting,0.77756965
+1719,Manufacturing & Construction,Finance & Accounting,0.6977323
+1720,Manufacturing & Construction,Tech & IT,0.7383962
+1721,Manufacturing & Construction,Finance & Accounting,0.71634823
+1722,Tech & IT,Tech & IT,0.7339414
+1723,Manufacturing & Construction,Finance & Accounting,0.6335989
+1724,Manufacturing & Construction,Tech & IT,0.71815026
+1725,Manufacturing & Construction,Finance & Accounting,0.7424824
+1726,Manufacturing & Construction,Finance & Accounting,0.7624626
+1727,Manufacturing & Construction,Tech & IT,0.6411004
+1728,Manufacturing & Construction,Creative & Design,0.67185336
+1729,Manufacturing & Construction,Finance & Accounting,0.53713393
+1730,Manufacturing & Construction,Finance & Accounting,0.65669364
+1731,Manufacturing & Construction,Tech & IT,0.7455737
+1732,Manufacturing & Construction,Finance & Accounting,0.73425967
+1733,Manufacturing & Construction,Finance & Accounting,0.7065759
+1734,Manufacturing & Construction,Tech & IT,0.71270835
+1735,Manufacturing & Construction,Finance & Accounting,0.6989943
+1736,Manufacturing & Construction,Finance & Accounting,0.6820222
+1737,Manufacturing & Construction,Finance & Accounting,0.724053
+1738,Manufacturing & Construction,Finance & Accounting,0.76542974
+1739,Manufacturing & Construction,Finance & Accounting,0.7199019
+1740,Manufacturing & Construction,Finance & Accounting,0.68199867
+1741,Manufacturing & Construction,Finance & Accounting,0.7385029
+1742,Tech & IT,Tech & IT,0.7945094
+1743,Manufacturing & Construction,Tech & IT,0.5466374
+1744,Tech & IT,Tech & IT,0.791174
+1745,Tech & IT,Tech & IT,0.79114705
+1746,Tech & IT,Tech & IT,0.76747745
+1747,Tech & IT,Tech & IT,0.8285555
+1748,Manufacturing & Construction,Tech & IT,0.7090199
+1749,Healthcare,Tech & IT,0.6324717
+1750,Manufacturing & Construction,Tech & IT,0.7987422
+1751,Manufacturing & Construction,Finance & Accounting,0.67956316
+1752,Manufacturing & Construction,Finance & Accounting,0.5616432
+1753,Manufacturing & Construction,Finance & Accounting,0.74857205
+1754,Finance & Accounting,Finance & Accounting,0.74867696
+1755,Manufacturing & Construction,Finance & Accounting,0.7227578
+1756,Tech & IT,Finance & Accounting,0.69659233
+1757,Tech & IT,Tech & IT,0.6779919
+1758,Manufacturing & Construction,Tech & IT,0.7792887
+1759,Manufacturing & Construction,Tech & IT,0.6586249
+1760,Manufacturing & Construction,Finance & Accounting,0.8055718
+1761,Manufacturing & Construction,Tech & IT,0.71311575
+1762,Tech & IT,Tech & IT,0.7543375
+1763,Tech & IT,Tech & IT,0.7482214
+1764,Manufacturing & Construction,Tech & IT,0.5742178
+1765,Manufacturing & Construction,Finance & Accounting,0.6873876
+1766,Manufacturing & Construction,Finance & Accounting,0.6678977
+1767,Tech & IT,Tech & IT,0.7624682
+1768,Manufacturing & Construction,Tech & IT,0.6856074
+1769,Manufacturing & Construction,Finance & Accounting,0.6523685
+1770,Manufacturing & Construction,Finance & Accounting,0.6146414
+1771,Tech & IT,Finance & Accounting,0.6017165
+1772,Manufacturing & Construction,Finance & Accounting,0.7256809
+1773,HR & Operations,Tech & IT,0.5657283
+1774,Tech & IT,Tech & IT,0.77638245
+1775,Manufacturing & Construction,Finance & Accounting,0.7043781
+1776,Manufacturing & Construction,Finance & Accounting,0.6073264
+1777,Manufacturing & Construction,Finance & Accounting,0.59125054
+1778,Tech & IT,Tech & IT,0.7021221
+1779,Manufacturing & Construction,Tech & IT,0.57399344
+1780,Manufacturing & Construction,Tech & IT,0.6264313
+1781,Manufacturing & Construction,Finance & Accounting,0.70226216
+1782,Finance & Accounting,Finance & Accounting,0.7664292
+1783,Tech & IT,Tech & IT,0.8003403
+1784,Healthcare,Finance & Accounting,0.5963057
+1785,Finance & Accounting,Finance & Accounting,0.765528
+1786,Manufacturing & Construction,Tech & IT,0.48736367
+1787,Manufacturing & Construction,Finance & Accounting,0.6829834
+1788,Manufacturing & Construction,Finance & Accounting,0.6975324
+1789,Tech & IT,Tech & IT,0.7719686
+1790,Finance & Accounting,Finance & Accounting,0.7399054
+1791,Manufacturing & Construction,Finance & Accounting,0.68702877
+1792,Other Services,Finance & Accounting,0.6230691
+1793,HR & Operations,Finance & Accounting,0.7214129
+1794,Manufacturing & Construction,Tech & IT,0.6955026
+1795,Manufacturing & Construction,Tech & IT,0.5698345
+1796,HR & Operations,Tech & IT,0.6253423
+1797,Manufacturing & Construction,Finance & Accounting,0.72000384
+1798,Creative & Design,Tech & IT,0.6576391
+1799,Tech & IT,Tech & IT,0.7797786
+1800,Tech & IT,Tech & IT,0.74438715
+1801,Manufacturing & Construction,Tech & IT,0.60763854
+1802,Tech & IT,Tech & IT,0.8442173
+1803,Manufacturing & Construction,Finance & Accounting,0.723953
+1804,Manufacturing & Construction,Finance & Accounting,0.74894285
+1805,Manufacturing & Construction,Tech & IT,0.6220282
+1806,Manufacturing & Construction,Tech & IT,0.62201613
+1807,Manufacturing & Construction,Tech & IT,0.722206
+1808,Finance & Accounting,Finance & Accounting,0.63527393
+1809,Finance & Accounting,Finance & Accounting,0.7178605
+1810,Finance & Accounting,Finance & Accounting,0.6686976
+1811,Finance & Accounting,Finance & Accounting,0.65934515
+1812,Finance & Accounting,Finance & Accounting,0.7674886
+1813,Finance & Accounting,Finance & Accounting,0.72785926
+1814,Finance & Accounting,Finance & Accounting,0.74351406
+1815,Finance & Accounting,Finance & Accounting,0.7000526
+1816,Finance & Accounting,Finance & Accounting,0.7534286
+1817,Finance & Accounting,Finance & Accounting,0.7428802
+1818,Finance & Accounting,Finance & Accounting,0.73725724
+1819,Finance & Accounting,Finance & Accounting,0.74065244
+1820,Finance & Accounting,Finance & Accounting,0.6741649
+1821,Finance & Accounting,Finance & Accounting,0.62757206
+1822,Finance & Accounting,Finance & Accounting,0.7567482
+1823,Finance & Accounting,Finance & Accounting,0.65159726
+1824,Finance & Accounting,Finance & Accounting,0.7066766
+1825,Finance & Accounting,Finance & Accounting,0.6844576
+1826,Finance & Accounting,Finance & Accounting,0.7376835
+1827,Finance & Accounting,Finance & Accounting,0.8000236
+1828,Finance & Accounting,Finance & Accounting,0.71270955
+1829,Finance & Accounting,Finance & Accounting,0.65747327
+1830,Finance & Accounting,Finance & Accounting,0.7409121
+1831,Finance & Accounting,Finance & Accounting,0.73256135
+1832,Finance & Accounting,Finance & Accounting,0.7275332
+1833,Finance & Accounting,Finance & Accounting,0.73855036
+1834,Finance & Accounting,Finance & Accounting,0.7645442
+1835,Finance & Accounting,Finance & Accounting,0.6563835
+1836,Finance & Accounting,Finance & Accounting,0.60743046
+1837,Finance & Accounting,Finance & Accounting,0.7150625
+1838,Finance & Accounting,Finance & Accounting,0.6843277
+1839,Finance & Accounting,Finance & Accounting,0.74540436
+1840,Finance & Accounting,Finance & Accounting,0.76176447
+1841,Finance & Accounting,Finance & Accounting,0.72594255
+1842,Finance & Accounting,Finance & Accounting,0.78709817
+1843,Finance & Accounting,Finance & Accounting,0.7745627
+1844,Finance & Accounting,Finance & Accounting,0.73559433
+1845,Finance & Accounting,Finance & Accounting,0.72976816
+1846,Finance & Accounting,Finance & Accounting,0.71145576
+1847,Finance & Accounting,Finance & Accounting,0.7944838
+1848,Finance & Accounting,Finance & Accounting,0.77191293
+1849,Finance & Accounting,Finance & Accounting,0.7615521
+1850,Finance & Accounting,Finance & Accounting,0.68705213
+1851,Finance & Accounting,Finance & Accounting,0.6675477
+1852,Finance & Accounting,Finance & Accounting,0.58657163
+1853,Finance & Accounting,Finance & Accounting,0.7165112
+1854,Finance & Accounting,Finance & Accounting,0.66748863
+1855,Finance & Accounting,Finance & Accounting,0.78752357
+1856,Finance & Accounting,Finance & Accounting,0.71477175
+1857,Finance & Accounting,Finance & Accounting,0.6989336
+1858,Finance & Accounting,Finance & Accounting,0.72780263
+1859,Finance & Accounting,Finance & Accounting,0.7302184
+1860,Finance & Accounting,Finance & Accounting,0.73963404
+1861,Finance & Accounting,Finance & Accounting,0.7164012
+1862,Finance & Accounting,Finance & Accounting,0.7840878
+1863,Finance & Accounting,Finance & Accounting,0.74990404
+1864,Finance & Accounting,Finance & Accounting,0.7262927
+1865,Finance & Accounting,Finance & Accounting,0.75519156
+1866,Finance & Accounting,Finance & Accounting,0.74087524
+1867,Finance & Accounting,Finance & Accounting,0.6653495
+1868,Finance & Accounting,Finance & Accounting,0.71550775
+1869,Finance & Accounting,Finance & Accounting,0.75984794
+1870,Finance & Accounting,Finance & Accounting,0.7183744
+1871,Finance & Accounting,Finance & Accounting,0.7969766
+1872,Finance & Accounting,Finance & Accounting,0.76342964
+1873,Finance & Accounting,Finance & Accounting,0.70664173
+1874,Finance & Accounting,Finance & Accounting,0.7784692
+1875,Finance & Accounting,Finance & Accounting,0.74876297
+1876,Finance & Accounting,Finance & Accounting,0.728362
+1877,Finance & Accounting,Finance & Accounting,0.77169997
+1878,Finance & Accounting,Finance & Accounting,0.7917595
+1879,Other Services,Finance & Accounting,0.7219615
+1880,Finance & Accounting,Finance & Accounting,0.70025575
+1881,Finance & Accounting,Finance & Accounting,0.7834931
+1882,Finance & Accounting,Finance & Accounting,0.7297771
+1883,Finance & Accounting,Finance & Accounting,0.6810413
+1884,Finance & Accounting,Finance & Accounting,0.7203099
+1885,Finance & Accounting,Finance & Accounting,0.70279056
+1886,Finance & Accounting,Finance & Accounting,0.6744654
+1887,Finance & Accounting,Finance & Accounting,0.62781966
+1888,Finance & Accounting,Finance & Accounting,0.7609243
+1889,Finance & Accounting,Finance & Accounting,0.65468776
+1890,Finance & Accounting,Finance & Accounting,0.7621089
+1891,Finance & Accounting,Finance & Accounting,0.6935121
+1892,Finance & Accounting,Finance & Accounting,0.6745317
+1893,Finance & Accounting,Finance & Accounting,0.7171316
+1894,Finance & Accounting,Finance & Accounting,0.7286052
+1895,Finance & Accounting,Finance & Accounting,0.6227133
+1896,Finance & Accounting,Finance & Accounting,0.74529994
+1897,Finance & Accounting,Finance & Accounting,0.7028926
+1898,Finance & Accounting,Finance & Accounting,0.70392156
+1899,Finance & Accounting,Finance & Accounting,0.74191153
+1900,Finance & Accounting,Finance & Accounting,0.6978794
+1901,Finance & Accounting,Finance & Accounting,0.707878
+1902,Finance & Accounting,Finance & Accounting,0.74138886
+1903,Finance & Accounting,Finance & Accounting,0.7706109
+1904,Finance & Accounting,Finance & Accounting,0.78132594
+1905,Finance & Accounting,Finance & Accounting,0.74674946
+1906,Finance & Accounting,Finance & Accounting,0.70853984
+1907,Finance & Accounting,Finance & Accounting,0.75470567
+1908,Finance & Accounting,Finance & Accounting,0.77141273
+1909,Finance & Accounting,Finance & Accounting,0.7408272
+1910,Finance & Accounting,Finance & Accounting,0.72765434
+1911,Finance & Accounting,Finance & Accounting,0.73284185
+1912,Finance & Accounting,Finance & Accounting,0.69979775
+1913,Finance & Accounting,Finance & Accounting,0.76517415
+1914,Finance & Accounting,Finance & Accounting,0.79741096
+1915,Finance & Accounting,Finance & Accounting,0.74993455
+1916,Finance & Accounting,Finance & Accounting,0.7098441
+1917,Finance & Accounting,Finance & Accounting,0.6303874
+1918,Finance & Accounting,Finance & Accounting,0.8092897
+1919,Finance & Accounting,Finance & Accounting,0.7556265
+1920,Finance & Accounting,Finance & Accounting,0.7206128
+1921,Finance & Accounting,Finance & Accounting,0.66940004
+1922,Finance & Accounting,Finance & Accounting,0.7531897
+1923,Finance & Accounting,Finance & Accounting,0.720227
+1924,Finance & Accounting,Finance & Accounting,0.7669902
+1925,Finance & Accounting,Finance & Accounting,0.67180085
+1926,Manufacturing & Construction,Finance & Accounting,0.6399387
+1927,Manufacturing & Construction,Finance & Accounting,0.7270739
+1928,Manufacturing & Construction,Finance & Accounting,0.63400435
+1929,Other Services,Finance & Accounting,0.7443297
+1930,Manufacturing & Construction,Tech & IT,0.7756086
+1931,Manufacturing & Construction,Creative & Design,0.5498197
+1932,Manufacturing & Construction,Tech & IT,0.714674
+1933,Manufacturing & Construction,Finance & Accounting,0.6163708
+1934,Manufacturing & Construction,Finance & Accounting,0.61122584
+1935,Manufacturing & Construction,Finance & Accounting,0.7094362
+1936,Manufacturing & Construction,Tech & IT,0.68237627
+1937,Manufacturing & Construction,Finance & Accounting,0.64892423
+1938,Manufacturing & Construction,Finance & Accounting,0.63710535
+1939,Manufacturing & Construction,Finance & Accounting,0.6361219
+1940,Manufacturing & Construction,Finance & Accounting,0.6873292
+1941,Manufacturing & Construction,Finance & Accounting,0.69635755
+1942,Manufacturing & Construction,Finance & Accounting,0.6494341
+1943,Manufacturing & Construction,Finance & Accounting,0.6552254
+1944,Manufacturing & Construction,Finance & Accounting,0.6245985
+1945,Other Services,Finance & Accounting,0.6957838
+1946,Manufacturing & Construction,Finance & Accounting,0.6863902
+1947,Manufacturing & Construction,Finance & Accounting,0.5806875
+1948,Tech & IT,Healthcare,0.3838278
+1949,Finance & Accounting,Finance & Accounting,0.68649924
+1950,Manufacturing & Construction,Finance & Accounting,0.66366553
+1951,Manufacturing & Construction,Finance & Accounting,0.6324386
+1952,Manufacturing & Construction,Finance & Accounting,0.7129262
+1953,Manufacturing & Construction,Finance & Accounting,0.67937994
+1954,Manufacturing & Construction,Finance & Accounting,0.73702055
+1955,Manufacturing & Construction,Finance & Accounting,0.7268841
+1956,Manufacturing & Construction,Finance & Accounting,0.74884963
+1957,Manufacturing & Construction,Finance & Accounting,0.6571957
+1958,Manufacturing & Construction,Finance & Accounting,0.7071917
+1959,HR & Operations,Finance & Accounting,0.6945882
+1960,Manufacturing & Construction,Finance & Accounting,0.6837567
+1961,Manufacturing & Construction,Finance & Accounting,0.71653557
+1962,Manufacturing & Construction,Finance & Accounting,0.6769958
+1963,Manufacturing & Construction,Finance & Accounting,0.7522933
+1964,Manufacturing & Construction,Finance & Accounting,0.7041528
+1965,Manufacturing & Construction,Finance & Accounting,0.6743838
+1966,Manufacturing & Construction,Finance & Accounting,0.7522006
+1967,HR & Operations,Finance & Accounting,0.67719525
+1968,Manufacturing & Construction,Finance & Accounting,0.6687586
+1969,Manufacturing & Construction,Finance & Accounting,0.7228477
+1970,Manufacturing & Construction,Finance & Accounting,0.638579
+1971,Manufacturing & Construction,Finance & Accounting,0.7136073
+1972,Manufacturing & Construction,Finance & Accounting,0.6524997
+1973,Manufacturing & Construction,Finance & Accounting,0.6250731
+1974,Finance & Accounting,Finance & Accounting,0.7889401
+1975,Manufacturing & Construction,Finance & Accounting,0.7503561
+1976,Manufacturing & Construction,Finance & Accounting,0.7261278
+1977,Finance & Accounting,Finance & Accounting,0.8008237
+1978,Manufacturing & Construction,Finance & Accounting,0.7110395
+1979,Manufacturing & Construction,Finance & Accounting,0.7270699
+1980,Manufacturing & Construction,Finance & Accounting,0.7220296
+1981,Other Services,Finance & Accounting,0.6328425
+1982,Manufacturing & Construction,Finance & Accounting,0.67991996
+1983,Manufacturing & Construction,Finance & Accounting,0.7344775
+1984,Creative & Design,Finance & Accounting,0.5546348
+1985,Finance & Accounting,Finance & Accounting,0.77052855
+1986,Manufacturing & Construction,Finance & Accounting,0.7046912
+1987,Manufacturing & Construction,Finance & Accounting,0.63152504
+1988,Manufacturing & Construction,Tech & IT,0.4949832
+1989,HR & Operations,Finance & Accounting,0.71858925
+1990,Manufacturing & Construction,Finance & Accounting,0.6730435
+1991,Manufacturing & Construction,Finance & Accounting,0.74538594
+1992,Manufacturing & Construction,Finance & Accounting,0.61914754
+1993,Manufacturing & Construction,Finance & Accounting,0.6574399
+1994,Education,Creative & Design,0.65677726
+1995,HR & Operations,Finance & Accounting,0.6590749
+1996,Manufacturing & Construction,Finance & Accounting,0.71012795
+1997,Manufacturing & Construction,Finance & Accounting,0.6856729
+1998,Manufacturing & Construction,Finance & Accounting,0.72457224
+1999,Finance & Accounting,Finance & Accounting,0.78597647
+2000,Manufacturing & Construction,Finance & Accounting,0.6712053
+2001,Healthcare,Finance & Accounting,0.6320081
+2002,HR & Operations,Finance & Accounting,0.5988486
+2003,Finance & Accounting,Finance & Accounting,0.6775812
+2004,Manufacturing & Construction,Finance & Accounting,0.7054812
+2005,Manufacturing & Construction,Finance & Accounting,0.6778544
+2006,Finance & Accounting,Finance & Accounting,0.73613644
+2007,Manufacturing & Construction,Finance & Accounting,0.7318456
+2008,Manufacturing & Construction,Finance & Accounting,0.7524985
+2009,Manufacturing & Construction,Finance & Accounting,0.5979011
+2010,Manufacturing & Construction,Finance & Accounting,0.62552273
+2011,Manufacturing & Construction,Finance & Accounting,0.7460394
+2012,Finance & Accounting,Finance & Accounting,0.6603563
+2013,Manufacturing & Construction,Finance & Accounting,0.566655
+2014,Other Services,Finance & Accounting,0.65117776
+2015,Other Services,Finance & Accounting,0.61492604
+2016,Finance & Accounting,Finance & Accounting,0.6929382
+2017,Manufacturing & Construction,Finance & Accounting,0.6704403
+2018,Manufacturing & Construction,Finance & Accounting,0.6361165
+2019,Manufacturing & Construction,Finance & Accounting,0.7013422
+2020,Manufacturing & Construction,Finance & Accounting,0.7212178
+2021,Other Services,Finance & Accounting,0.6448849
+2022,Manufacturing & Construction,Finance & Accounting,0.6693239
+2023,Manufacturing & Construction,Finance & Accounting,0.78239834
+2024,Manufacturing & Construction,Finance & Accounting,0.7652345
+2025,Manufacturing & Construction,Finance & Accounting,0.58375067
+2026,Manufacturing & Construction,Finance & Accounting,0.7764138
+2027,Manufacturing & Construction,Finance & Accounting,0.68504226
+2028,Other Services,Finance & Accounting,0.5903466
+2029,Manufacturing & Construction,Finance & Accounting,0.6790734
+2030,Manufacturing & Construction,Finance & Accounting,0.7982099
+2031,HR & Operations,Finance & Accounting,0.61999893
+2032,HR & Operations,Finance & Accounting,0.6657726
+2033,Healthcare,Tech & IT,0.5935439
+2034,Tech & IT,Finance & Accounting,0.77915996
+2035,Manufacturing & Construction,Finance & Accounting,0.52997065
+2036,Manufacturing & Construction,Finance & Accounting,0.5881365
+2037,Manufacturing & Construction,Finance & Accounting,0.7014672
+2038,Healthcare,Finance & Accounting,0.631086
+2039,Creative & Design,Finance & Accounting,0.44305187
+2040,Creative & Design,Finance & Accounting,0.65964985
+2041,Creative & Design,Finance & Accounting,0.7541692
+2042,Creative & Design,Finance & Accounting,0.62554175
+2043,HR & Operations,Finance & Accounting,0.7519355
+2044,Finance & Accounting,Finance & Accounting,0.7223068
+2045,Creative & Design,Finance & Accounting,0.5529704
+2046,Creative & Design,Finance & Accounting,0.67609227
+2047,Creative & Design,Finance & Accounting,0.6266034
+2048,Creative & Design,Finance & Accounting,0.7214521
+2049,Creative & Design,Finance & Accounting,0.6947427
+2050,Other Services,Finance & Accounting,0.7971593
+2051,Creative & Design,Finance & Accounting,0.7647372
+2052,Creative & Design,Finance & Accounting,0.73950976
+2053,Healthcare,Finance & Accounting,0.7480975
+2054,Creative & Design,Finance & Accounting,0.70070827
+2055,Creative & Design,Finance & Accounting,0.6935443
+2056,Creative & Design,Finance & Accounting,0.6888813
+2057,Creative & Design,Finance & Accounting,0.6615452
+2058,Creative & Design,Finance & Accounting,0.6025839
+2059,Finance & Accounting,Finance & Accounting,0.80294657
+2060,Creative & Design,Finance & Accounting,0.5640685
+2061,Creative & Design,Finance & Accounting,0.71613145
+2062,Creative & Design,Finance & Accounting,0.65476173
+2063,Hospitality & Food,Finance & Accounting,0.64146554
+2064,Creative & Design,Finance & Accounting,0.71357554
+2065,Creative & Design,Finance & Accounting,0.73486316
+2066,Creative & Design,Finance & Accounting,0.65778214
+2067,Creative & Design,Finance & Accounting,0.6533841
+2068,Education,Finance & Accounting,0.727286
+2069,Healthcare,Finance & Accounting,0.7454662
+2070,Creative & Design,Finance & Accounting,0.5104895
+2071,Creative & Design,Finance & Accounting,0.62954867
+2072,Creative & Design,Finance & Accounting,0.7183391
+2073,Creative & Design,Finance & Accounting,0.62205935
+2074,Finance & Accounting,Finance & Accounting,0.72476166
+2075,Finance & Accounting,Finance & Accounting,0.7770494
+2076,Creative & Design,Finance & Accounting,0.50611985
+2077,Finance & Accounting,Finance & Accounting,0.7852521
+2078,Healthcare,Finance & Accounting,0.6203493
+2079,Education,Finance & Accounting,0.6823116
+2080,Creative & Design,Finance & Accounting,0.60589534
+2081,Creative & Design,Finance & Accounting,0.7186386
+2082,Creative & Design,Finance & Accounting,0.6779868
+2083,Finance & Accounting,Finance & Accounting,0.6424918
+2084,Other Services,Finance & Accounting,0.73372793
+2085,Creative & Design,Finance & Accounting,0.6996118
+2086,Creative & Design,Finance & Accounting,0.6465695
+2087,Finance & Accounting,Finance & Accounting,0.81299263
+2088,Healthcare,Finance & Accounting,0.64811915
+2089,Healthcare,Finance & Accounting,0.77845794
+2090,Creative & Design,Creative & Design,0.60950994
+2091,Creative & Design,Finance & Accounting,0.49373466
+2092,Healthcare,Finance & Accounting,0.629068
+2093,Creative & Design,Finance & Accounting,0.7746031
+2094,Hospitality & Food,Finance & Accounting,0.5214814
+2095,Creative & Design,Finance & Accounting,0.597152
+2096,HR & Operations,Finance & Accounting,0.74000967
+2097,Creative & Design,Finance & Accounting,0.48957294
+2098,Creative & Design,Finance & Accounting,0.629001
+2099,Manufacturing & Construction,Finance & Accounting,0.6254758
+2100,Creative & Design,Finance & Accounting,0.548525
+2101,Creative & Design,Finance & Accounting,0.64763075
+2102,Creative & Design,Finance & Accounting,0.6202655
+2103,Other Services,Finance & Accounting,0.67902637
+2104,Creative & Design,Finance & Accounting,0.6811353
+2105,Creative & Design,Finance & Accounting,0.7274493
+2106,HR & Operations,Finance & Accounting,0.70063365
+2107,Other Services,Finance & Accounting,0.7825043
+2108,Finance & Accounting,Finance & Accounting,0.7975027
+2109,Creative & Design,Finance & Accounting,0.725063
+2110,Other Services,Finance & Accounting,0.6796527
+2111,Other Services,Finance & Accounting,0.5541512
+2112,Creative & Design,Finance & Accounting,0.6941346
+2113,Finance & Accounting,Finance & Accounting,0.7166666
+2114,Creative & Design,Finance & Accounting,0.44051394
+2115,Creative & Design,Finance & Accounting,0.7065191
+2116,Finance & Accounting,Finance & Accounting,0.760852
+2117,Creative & Design,Finance & Accounting,0.42322412
+2118,Finance & Accounting,Finance & Accounting,0.7796001
+2119,Other Services,Finance & Accounting,0.7973137
+2120,Creative & Design,Finance & Accounting,0.5083111
+2121,Creative & Design,Creative & Design,0.68751675
+2122,Creative & Design,Finance & Accounting,0.6785055
+2123,Creative & Design,Finance & Accounting,0.6215138
+2124,Finance & Accounting,Finance & Accounting,0.81306446
+2125,Finance & Accounting,Finance & Accounting,0.83078754
+2126,Creative & Design,Finance & Accounting,0.668913
+2127,Creative & Design,Finance & Accounting,0.63723284
+2128,Creative & Design,Finance & Accounting,0.70564264
+2129,Tech & IT,Finance & Accounting,0.7137493
+2130,Creative & Design,Finance & Accounting,0.71955144
+2131,Healthcare,Finance & Accounting,0.62573004
+2132,Other Services,Finance & Accounting,0.67777157
+2133,Creative & Design,Finance & Accounting,0.6248154
+2134,Creative & Design,Finance & Accounting,0.6965393
+2135,Creative & Design,Finance & Accounting,0.58176523
+2136,Finance & Accounting,Finance & Accounting,0.8118106
+2137,Finance & Accounting,Finance & Accounting,0.7897965
+2138,Finance & Accounting,Finance & Accounting,0.7296405
+2139,Creative & Design,Finance & Accounting,0.7179556
+2140,Hospitality & Food,Finance & Accounting,0.6198386
+2141,Creative & Design,Finance & Accounting,0.6967894
+2142,Finance & Accounting,Finance & Accounting,0.74435586
+2143,Creative & Design,Finance & Accounting,0.7086253
+2144,Finance & Accounting,Finance & Accounting,0.67624927
+2145,Finance & Accounting,Finance & Accounting,0.78821087
+2146,Creative & Design,Finance & Accounting,0.73120964
+2147,Creative & Design,Finance & Accounting,0.61918783
+2148,Creative & Design,Finance & Accounting,0.7169276
+2149,Finance & Accounting,Finance & Accounting,0.6628758
+2150,Other Services,Finance & Accounting,0.7141758
+2151,Finance & Accounting,Finance & Accounting,0.77553296
+2152,Finance & Accounting,Finance & Accounting,0.78958875
+2153,Finance & Accounting,Finance & Accounting,0.68833804
+2154,Finance & Accounting,Finance & Accounting,0.70183194
+2155,Finance & Accounting,Finance & Accounting,0.73807913
+2156,Finance & Accounting,Finance & Accounting,0.71080726
+2157,Finance & Accounting,Finance & Accounting,0.62697816
+2158,Creative & Design,Finance & Accounting,0.63100135
+2159,Finance & Accounting,Finance & Accounting,0.72837853
+2160,Finance & Accounting,Finance & Accounting,0.6165259
+2161,Finance & Accounting,Finance & Accounting,0.7105746
+2162,Finance & Accounting,Finance & Accounting,0.7437712
+2163,Other Services,Finance & Accounting,0.6806281
+2164,Other Services,Finance & Accounting,0.719339
+2165,Finance & Accounting,Finance & Accounting,0.73571604
+2166,Finance & Accounting,Finance & Accounting,0.70164156
+2167,Finance & Accounting,Finance & Accounting,0.73500836
+2168,Finance & Accounting,Finance & Accounting,0.78668416
+2169,Finance & Accounting,Finance & Accounting,0.7116791
+2170,Finance & Accounting,Finance & Accounting,0.74259716
+2171,Finance & Accounting,Finance & Accounting,0.6774188
+2172,Finance & Accounting,Finance & Accounting,0.6359585
+2173,Finance & Accounting,Finance & Accounting,0.79689765
+2174,Finance & Accounting,Finance & Accounting,0.73431146
+2175,Finance & Accounting,Finance & Accounting,0.6466813
+2176,Finance & Accounting,Finance & Accounting,0.73813426
+2177,Finance & Accounting,Finance & Accounting,0.7192894
+2178,Finance & Accounting,Finance & Accounting,0.71920437
+2179,Finance & Accounting,Finance & Accounting,0.70425546
+2180,Finance & Accounting,Finance & Accounting,0.7451345
+2181,Finance & Accounting,Finance & Accounting,0.7006626
+2182,Other Services,Finance & Accounting,0.6385281
+2183,Finance & Accounting,Finance & Accounting,0.7575617
+2184,Tech & IT,Tech & IT,0.8069817
+2185,Finance & Accounting,Finance & Accounting,0.7384085
+2186,Finance & Accounting,Finance & Accounting,0.7820688
+2187,Finance & Accounting,Finance & Accounting,0.6447551
+2188,Finance & Accounting,Finance & Accounting,0.7201489
+2189,Healthcare,Finance & Accounting,0.59289354
+2190,Tech & IT,Tech & IT,0.7563157
+2191,Tech & IT,Tech & IT,0.8401639
+2192,Other Services,Finance & Accounting,0.7110296
+2193,Finance & Accounting,Finance & Accounting,0.7558378
+2194,Finance & Accounting,Finance & Accounting,0.7707926
+2195,Finance & Accounting,Finance & Accounting,0.55226743
+2196,Finance & Accounting,Finance & Accounting,0.74737394
+2197,Other Services,Finance & Accounting,0.7088398
+2198,Finance & Accounting,Finance & Accounting,0.73718965
+2199,Tech & IT,Tech & IT,0.7321539
+2200,Finance & Accounting,Finance & Accounting,0.74841774
+2201,Education,Finance & Accounting,0.57036316
+2202,Tech & IT,Tech & IT,0.8145884
+2203,Finance & Accounting,Finance & Accounting,0.7300105
+2204,Finance & Accounting,Finance & Accounting,0.7613674
+2205,Finance & Accounting,Finance & Accounting,0.7906551
+2206,Finance & Accounting,Finance & Accounting,0.74272895
+2207,Education,Finance & Accounting,0.63042116
+2208,Finance & Accounting,Finance & Accounting,0.7666712
+2209,Finance & Accounting,Finance & Accounting,0.7846997
+2210,Healthcare,Finance & Accounting,0.5886035
+2211,Tech & IT,Tech & IT,0.7963902
+2212,Creative & Design,Finance & Accounting,0.6711443
+2213,Finance & Accounting,Finance & Accounting,0.76676214
+2214,Finance & Accounting,Finance & Accounting,0.7535427
+2215,Other Services,Finance & Accounting,0.7041739
+2216,Finance & Accounting,Finance & Accounting,0.69805443
+2217,Education,Finance & Accounting,0.6904986
+2218,Finance & Accounting,Finance & Accounting,0.7830087
+2219,Finance & Accounting,Finance & Accounting,0.7788453
+2220,Tech & IT,Tech & IT,0.7732048
+2221,Finance & Accounting,Finance & Accounting,0.7504269
+2222,Finance & Accounting,Finance & Accounting,0.7747851
+2223,Other Services,Finance & Accounting,0.65459096
+2224,Finance & Accounting,Finance & Accounting,0.66575915
+2225,Finance & Accounting,Finance & Accounting,0.76355803
+2226,Healthcare,Finance & Accounting,0.739354
+2227,HR & Operations,Finance & Accounting,0.73512846
+2228,Finance & Accounting,Finance & Accounting,0.7065989
+2229,Finance & Accounting,Finance & Accounting,0.7398356
+2230,Finance & Accounting,Finance & Accounting,0.75949746
+2231,Finance & Accounting,Finance & Accounting,0.75887495
+2232,Finance & Accounting,Finance & Accounting,0.7531016
+2233,Finance & Accounting,Finance & Accounting,0.7904787
+2234,Finance & Accounting,Finance & Accounting,0.7503046
+2235,Finance & Accounting,Finance & Accounting,0.6752034
+2236,Finance & Accounting,Finance & Accounting,0.7573577
+2237,Finance & Accounting,Finance & Accounting,0.8171171
+2238,Other Services,Finance & Accounting,0.76988924
+2239,Other Services,Finance & Accounting,0.73654485
+2240,Other Services,Finance & Accounting,0.73182946
+2241,Creative & Design,Finance & Accounting,0.6390903
+2242,Tech & IT,Tech & IT,0.78817636
+2243,Finance & Accounting,Finance & Accounting,0.6768234
+2244,Finance & Accounting,Finance & Accounting,0.72402465
+2245,Finance & Accounting,Finance & Accounting,0.7592848
+2246,Other Services,Finance & Accounting,0.70103014
+2247,Finance & Accounting,Finance & Accounting,0.7793654
+2248,Finance & Accounting,Finance & Accounting,0.7721772
+2249,Finance & Accounting,Finance & Accounting,0.66001546
+2250,Finance & Accounting,Finance & Accounting,0.6624705
+2251,Finance & Accounting,Finance & Accounting,0.7551067
+2252,Finance & Accounting,Finance & Accounting,0.75196904
+2253,Finance & Accounting,Finance & Accounting,0.8379024
+2254,Healthcare,Finance & Accounting,0.63380194
+2255,Finance & Accounting,Finance & Accounting,0.7719321
+2256,Finance & Accounting,Finance & Accounting,0.69540906
+2257,Finance & Accounting,Finance & Accounting,0.76084626
+2258,Creative & Design,Finance & Accounting,0.62802947
+2259,Healthcare,Finance & Accounting,0.4033392
+2260,Finance & Accounting,Finance & Accounting,0.6181433
+2261,Finance & Accounting,Finance & Accounting,0.6443671
+2262,Finance & Accounting,Finance & Accounting,0.74808955
+2263,Creative & Design,Finance & Accounting,0.7219193
+2264,Education,Creative & Design,0.56562173
+2265,Education,Creative & Design,0.600621
+2266,Education,Creative & Design,0.57100236
+2267,Education,Creative & Design,0.50535977
+2268,Creative & Design,Finance & Accounting,0.59349275
+2269,Hospitality & Food,Finance & Accounting,0.6146438
+2270,Education,Creative & Design,0.5908911
+2271,Education,Creative & Design,0.5811296
+2272,Education,Creative & Design,0.5631453
+2273,Education,Creative & Design,0.62448055
+2274,Other Services,Finance & Accounting,0.6236122
+2275,Education,Creative & Design,0.56506157
+2276,Education,Creative & Design,0.5980066
+2277,Education,Creative & Design,0.57047075
+2278,Education,Creative & Design,0.5868789
+2279,Education,Creative & Design,0.5379511
+2280,Education,Creative & Design,0.6112952
+2281,Education,Creative & Design,0.6041196
+2282,Education,Creative & Design,0.46748224
+2283,Education,Creative & Design,0.5480157
+2284,Healthcare,Finance & Accounting,0.6386442
+2285,Education,Finance & Accounting,0.60847676
+2286,Education,Finance & Accounting,0.6079534
+2287,Creative & Design,Finance & Accounting,0.74322176
+2288,Education,Creative & Design,0.53414977
+2289,Healthcare,Finance & Accounting,0.5341764
+2290,HR & Operations,Finance & Accounting,0.7283566
+2291,Education,Creative & Design,0.60691345
+2292,Creative & Design,Finance & Accounting,0.64202166
+2293,Tech & IT,Tech & IT,0.6279359
+2294,Tech & IT,Finance & Accounting,0.77992487
+2295,Education,Finance & Accounting,0.524317
+2296,Finance & Accounting,Finance & Accounting,0.5682168
+2297,HR & Operations,Finance & Accounting,0.6820737
+2298,Other Services,Finance & Accounting,0.7806835
+2299,Education,Finance & Accounting,0.6137762
+2300,Education,Creative & Design,0.50541145
+2301,Healthcare,Finance & Accounting,0.6809243
+2302,Other Services,Finance & Accounting,0.7185524
+2303,Healthcare,Finance & Accounting,0.56690687
+2304,Finance & Accounting,Finance & Accounting,0.793723
+2305,Creative & Design,Creative & Design,0.7038079
+2306,Education,Creative & Design,0.6214515
+2307,Education,Creative & Design,0.4858461
+2308,Creative & Design,Finance & Accounting,0.74817914
+2309,Education,Finance & Accounting,0.5420277
+2310,Healthcare,Creative & Design,0.5370207
+2311,Education,Finance & Accounting,0.5250223
+2312,Other Services,Finance & Accounting,0.6156119
+2313,Creative & Design,Creative & Design,0.770876
+2314,Tech & IT,Tech & IT,0.6441238
+2315,Finance & Accounting,Finance & Accounting,0.7111327
+2316,Tech & IT,Finance & Accounting,0.66104054
+2317,Finance & Accounting,Finance & Accounting,0.71878916
+2318,Education,Finance & Accounting,0.5095848
+2319,Creative & Design,Finance & Accounting,0.59712523
+2320,Manufacturing & Construction,Finance & Accounting,0.7066051
+2321,Finance & Accounting,Finance & Accounting,0.7742079
+2322,Other Services,Finance & Accounting,0.6882136
+2323,Healthcare,Finance & Accounting,0.5066157
+2324,Other Services,Finance & Accounting,0.6819222
+2325,Finance & Accounting,Finance & Accounting,0.812866
+2326,Education,Creative & Design,0.6153089
+2327,Education,Creative & Design,0.5419237
+2328,Tech & IT,Tech & IT,0.6370692
+2329,Creative & Design,Finance & Accounting,0.6906874
+2330,HR & Operations,Finance & Accounting,0.73551977
+2331,Education,Finance & Accounting,0.6035434
+2332,Finance & Accounting,Finance & Accounting,0.81547135
+2333,HR & Operations,Finance & Accounting,0.74297047
+2334,Finance & Accounting,Finance & Accounting,0.75030726
+2335,Hospitality & Food,Finance & Accounting,0.6254313
+2336,Education,Finance & Accounting,0.4533019
+2337,HR & Operations,Finance & Accounting,0.6325704
+2338,Manufacturing & Construction,Finance & Accounting,0.65640366
+2339,Education,Creative & Design,0.5083739
+2340,HR & Operations,Finance & Accounting,0.4792154
+2341,Creative & Design,Finance & Accounting,0.5946804
+2342,Other Services,Finance & Accounting,0.71104467
+2343,Healthcare,Finance & Accounting,0.3770968
+2344,Education,Finance & Accounting,0.69673735
+2345,Other Services,Finance & Accounting,0.66918635
+2346,Manufacturing & Construction,Finance & Accounting,0.74213785
+2347,Hospitality & Food,Finance & Accounting,0.64382315
+2348,Other Services,Finance & Accounting,0.71684957
+2349,Education,Creative & Design,0.38750726
+2350,Finance & Accounting,Finance & Accounting,0.7504262
+2351,Education,Finance & Accounting,0.72701573
+2352,Finance & Accounting,Finance & Accounting,0.6989716
+2353,Healthcare,Finance & Accounting,0.59051096
+2354,Other Services,Finance & Accounting,0.5996819
+2355,Healthcare,Finance & Accounting,0.69023025
+2356,Healthcare,Finance & Accounting,0.6074225
+2357,Finance & Accounting,Finance & Accounting,0.7768317
+2358,Hospitality & Food,Finance & Accounting,0.5947098
+2359,Education,Finance & Accounting,0.62645465
+2360,Creative & Design,Creative & Design,0.61512697
+2361,Other Services,Finance & Accounting,0.6962898
+2362,HR & Operations,Finance & Accounting,0.527008
+2363,Finance & Accounting,Finance & Accounting,0.7622833
+2364,Other Services,Finance & Accounting,0.7107601
+2365,Creative & Design,Finance & Accounting,0.74976933
+2366,Healthcare,Finance & Accounting,0.42461693
+2367,Manufacturing & Construction,Finance & Accounting,0.6905296
+2368,HR & Operations,Finance & Accounting,0.5978838
+2369,HR & Operations,Finance & Accounting,0.69066644
+2370,HR & Operations,Finance & Accounting,0.6591518
+2371,HR & Operations,Finance & Accounting,0.7530168
+2372,HR & Operations,Tech & IT,0.6194252
+2373,HR & Operations,Finance & Accounting,0.7235298
+2374,HR & Operations,Finance & Accounting,0.6582712
+2375,HR & Operations,Finance & Accounting,0.51673055
+2376,HR & Operations,Finance & Accounting,0.70704
+2377,HR & Operations,Finance & Accounting,0.643451
+2378,HR & Operations,Finance & Accounting,0.65823734
+2379,HR & Operations,Finance & Accounting,0.54412663
+2380,HR & Operations,Finance & Accounting,0.58933896
+2381,HR & Operations,Finance & Accounting,0.57977736
+2382,HR & Operations,Finance & Accounting,0.54364026
+2383,HR & Operations,Tech & IT,0.54556817
+2384,HR & Operations,Finance & Accounting,0.64709175
+2385,HR & Operations,Finance & Accounting,0.6892154
+2386,HR & Operations,Finance & Accounting,0.68457425
+2387,HR & Operations,Finance & Accounting,0.5908072
+2388,HR & Operations,Finance & Accounting,0.6472473
+2389,HR & Operations,Finance & Accounting,0.49639732
+2390,HR & Operations,Finance & Accounting,0.6799804
+2391,HR & Operations,Finance & Accounting,0.59797895
+2392,HR & Operations,Finance & Accounting,0.73766655
+2393,HR & Operations,Finance & Accounting,0.7009332
+2394,Other Services,Finance & Accounting,0.66589075
+2395,Tech & IT,Tech & IT,0.7929397
+2396,Manufacturing & Construction,Finance & Accounting,0.51680654
+2397,HR & Operations,Finance & Accounting,0.58616585
+2398,Manufacturing & Construction,Finance & Accounting,0.62605584
+2399,Tech & IT,Tech & IT,0.6475585
+2400,HR & Operations,Finance & Accounting,0.689543
+2401,HR & Operations,Finance & Accounting,0.61339104
+2402,HR & Operations,Finance & Accounting,0.7350279
+2403,Manufacturing & Construction,Finance & Accounting,0.6123682
+2404,HR & Operations,Finance & Accounting,0.66237
+2405,HR & Operations,Finance & Accounting,0.61304533
+2406,HR & Operations,Finance & Accounting,0.6842042
+2407,HR & Operations,Finance & Accounting,0.53339994
+2408,HR & Operations,Finance & Accounting,0.5754527
+2409,HR & Operations,Finance & Accounting,0.7018605
+2410,HR & Operations,Finance & Accounting,0.69302714
+2411,HR & Operations,Finance & Accounting,0.6426048
+2412,Manufacturing & Construction,Finance & Accounting,0.69170284
+2413,HR & Operations,Finance & Accounting,0.75595176
+2414,HR & Operations,Tech & IT,0.52272725
+2415,Finance & Accounting,Finance & Accounting,0.73276246
+2416,HR & Operations,Finance & Accounting,0.6368722
+2417,Manufacturing & Construction,Finance & Accounting,0.5769191
+2418,HR & Operations,Finance & Accounting,0.7538621
+2419,Healthcare,Finance & Accounting,0.61044943
+2420,HR & Operations,Finance & Accounting,0.64326525
+2421,HR & Operations,Finance & Accounting,0.59556085
+2422,Manufacturing & Construction,Finance & Accounting,0.7783974
+2423,HR & Operations,Finance & Accounting,0.7813761
+2424,HR & Operations,Finance & Accounting,0.5836182
+2425,Manufacturing & Construction,Finance & Accounting,0.70457995
+2426,Tech & IT,Finance & Accounting,0.7631966
+2427,HR & Operations,Finance & Accounting,0.6938256
+2428,HR & Operations,Finance & Accounting,0.6584834
+2429,Finance & Accounting,Finance & Accounting,0.69008523
+2430,HR & Operations,Finance & Accounting,0.69469225
+2431,Manufacturing & Construction,Finance & Accounting,0.6985456
+2432,HR & Operations,Finance & Accounting,0.6341382
+2433,Manufacturing & Construction,Finance & Accounting,0.646199
+2434,HR & Operations,Finance & Accounting,0.7110678
+2435,HR & Operations,Finance & Accounting,0.46865338
+2436,Manufacturing & Construction,Finance & Accounting,0.70121884
+2437,Healthcare,Finance & Accounting,0.6343753
+2438,Manufacturing & Construction,Tech & IT,0.6912109
+2439,Manufacturing & Construction,Finance & Accounting,0.70698154
+2440,Other Services,Finance & Accounting,0.7572757
+2441,HR & Operations,Finance & Accounting,0.64982885
+2442,Manufacturing & Construction,Finance & Accounting,0.72360164
+2443,Tech & IT,Tech & IT,0.71048576
+2444,Other Services,Finance & Accounting,0.7198206
+2445,HR & Operations,Finance & Accounting,0.6576663
+2446,HR & Operations,Finance & Accounting,0.55847824
+2447,HR & Operations,Finance & Accounting,0.7449584
+2448,Manufacturing & Construction,Finance & Accounting,0.58089304
+2449,Other Services,Finance & Accounting,0.67800415
+2450,HR & Operations,Finance & Accounting,0.6674483
+2451,HR & Operations,Finance & Accounting,0.5111878
+2452,HR & Operations,Finance & Accounting,0.65802765
+2453,Manufacturing & Construction,Finance & Accounting,0.6708082
+2454,HR & Operations,Finance & Accounting,0.5874888
+2455,HR & Operations,Finance & Accounting,0.786644
+2456,HR & Operations,Finance & Accounting,0.510151
+2457,Tech & IT,Tech & IT,0.7357306
+2458,HR & Operations,Finance & Accounting,0.6869982
+2459,Finance & Accounting,Finance & Accounting,0.8208197
+2460,HR & Operations,Finance & Accounting,0.58511794
+2461,Healthcare,Finance & Accounting,0.7495922
+2462,Other Services,Finance & Accounting,0.58826816
+2463,HR & Operations,Finance & Accounting,0.5696643
+2464,HR & Operations,Finance & Accounting,0.70816946
+2465,HR & Operations,Finance & Accounting,0.70620406
+2466,HR & Operations,Finance & Accounting,0.68348515
+2467,Manufacturing & Construction,Finance & Accounting,0.64530075
+2468,HR & Operations,Finance & Accounting,0.7059896
+2469,HR & Operations,Finance & Accounting,0.6725602
+2470,Manufacturing & Construction,Finance & Accounting,0.6256778
+2471,HR & Operations,Finance & Accounting,0.5987729
+2472,HR & Operations,Finance & Accounting,0.6963719
+2473,Finance & Accounting,Finance & Accounting,0.776893
+2474,Manufacturing & Construction,Finance & Accounting,0.757751
+2475,Finance & Accounting,Finance & Accounting,0.80282676
+2476,Manufacturing & Construction,Finance & Accounting,0.68255913
+2477,HR & Operations,Finance & Accounting,0.62588966
+2478,Tech & IT,Tech & IT,0.7341332
+2479,HR & Operations,Finance & Accounting,0.5601652
+2480,Finance & Accounting,Finance & Accounting,0.73981595
+2481,HR & Operations,Finance & Accounting,0.646407
+2482,Healthcare,Finance & Accounting,0.58227915
+2483,Other Services,Finance & Accounting,0.7198206
