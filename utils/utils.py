@@ -245,11 +245,11 @@ def attach_domain_labels(df, category_col="Category"):
 # Scoring parameters
 # -----------------------
 weights = {
-    'skills': 0.35,
+    'skills': 0.25,
     'experience': 0.20,
-    'education': 0.15,
-    'semantic': 0.15,
-    'domain': 0.15
+    'education': 0.10,
+    'semantic': 0.25,
+    'domain': 0.20
 }
 
 education_levels = {'phd': 4, 'master': 3, 'bachelor': 2, 'associate': 1, 'diploma': 0.5}
