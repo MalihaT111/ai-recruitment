@@ -197,4 +197,3 @@ def keyword_overlap(job_text, resume_text):
     if not j or not r:
         return 0
     return len(j & r) / len(j | r)
-e
