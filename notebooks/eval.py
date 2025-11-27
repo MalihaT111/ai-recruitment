@@ -33,8 +33,12 @@ MODEL_FEATURES = [
 # ----------------------------
 # 3. LOAD PRECOMPUTED RESUME EMBEDDINGS
 # ----------------------------
-resume_vectors = np.load("../precomputed/resume_vectors.npy")
-resume_texts = pd.read_csv("../precomputed/resume_texts.csv")["resume_text"].fillna("").astype(str).tolist()
+# resume_vectors = np.load("../precomputed/resume_vectors.npy")
+# resume_texts = pd.read_csv("../precomputed/resume_texts.csv")["resume_text"].fillna("").astype(str).tolist()
+
+resume_vectors = np.load("../data/embeddings/resume_emb_e5_large.npy")
+resume_texts = pd.read_csv("../data/original/resumes_cleaned.csv")["Resume_clean"] \
+                    .fillna("").astype(str).tolist()
 
 
 
