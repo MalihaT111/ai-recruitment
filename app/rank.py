@@ -1,3 +1,45 @@
+"""
+rank.py - Resume Ranking API Route
+
+PURPOSE:
+    Ranks resumes against a job description using a hybrid ML + semantic similarity approach.
+    Combines a trained Gradient Boosting classifier with sentence-transformer embeddings
+    to produce a final relevance score for each resume.
+
+INPUTS (via POST /rank):
+    - job_description (str): Raw text of the job posting
+    - top_k (int, default=10): Number of top resumes to return
+    - alpha (float, default=0.7): Weight for ML model vs semantic similarity
+      final_score = alpha * ml_probability + (1 - alpha) * cosine_similarity
+
+OUTPUTS:
+    JSON array of ranked resumes, each containing:
+    - resume_idx (int): Index of the resume in the dataset
+    - final_score (float): Combined relevance score (0-1)
+    - ml_prob (float): ML model probability that resume matches job
+    - cos_sim (float): Semantic similarity between job and resume embeddings
+    - resume_text (str): First 400 characters of the resume
+
+HOW TO USE:
+    POST http://localhost:8000/rank
+    Content-Type: application/json
+    
+    {
+      "job_description": "We need a Python developer with 3+ years of experience...",
+      "top_k": 5,
+      "alpha": 0.7
+    }
+
+DEPENDENCIES:
+    - models/model_gradient_boosting.pkl: Trained GB classifier
+    - data/original/resumes_cleaned.csv: Resume corpus
+    - data/embeddings/resume_emb_e5_large.npy: Precomputed resume embeddings
+    - notebooks/feature_extractors.py: Feature engineering functions
+
+DEVICE:
+    Automatically uses GPU (CUDA) if available, falls back to CPU.
+"""
+
 import numpy as np
 import pandas as pd
 import joblib
