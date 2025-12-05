@@ -98,7 +98,7 @@ def rank_resumes(job_text, top_k=5, alpha=0.5):
             "final_score": final,
             "ml_prob": ml_prob,
             "cos_sim": cos_sim,
-            "resume_preview": resume_clean[:300],
+            "resume_text": resume_clean,
         })
 
     df = pd.DataFrame(scored)
@@ -118,52 +118,70 @@ def rank_resumes(job_text, top_k=5, alpha=0.5):
 # 5. EXAMPLE RUN
 # ----------------------------
 job_posting = """
-📌 Job Posting: Senior Java Full-Stack Engineer (Remote / NYC Preferred)
+Software Engineer, New Grad (2025 Start)
 
-Senior Java Full-Stack Engineer — SaaS Platform (Remote, US)
+Location: New York, NY (Hybrid)
+Team: Engineering
+Employment Type: Full-time
 
-We are seeking a Senior Java Full-Stack Engineer to join our engineering team responsible for building scalable, cloud-native SaaS applications. The ideal candidate has strong backend experience in Java, Spring Boot, Microservices, and modern frontend frameworks such as React or Angular.
+About the Role
 
-Responsibilities
+We’re looking for a Software Engineer to join our growing engineering organization. In this role, you will build systems that power customer-facing products, optimize performance at scale, and contribute to high-impact features across our platform. You’ll work closely with senior engineers, product managers, and designers to ship production-ready code and influence the future of our technical stack.
 
-Design, develop, and maintain scalable backend services using Java / Spring Boot
+What You’ll Do
 
-Build and consume RESTful APIs and microservices
+Design, build, and maintain backend services, APIs, and distributed systems.
 
-Implement front-end features using React, Angular, or similar
+Collaborate across engineering, product, and design to deliver new features end-to-end.
 
-Optimize application performance, reliability, and security
+Own components from proposal to deployment: writing specs, implementing solutions, testing, and monitoring.
 
-Collaborate with product managers, QA, and DevOps to deliver high-quality features
+Improve system performance, reliability, scalability, and observability.
 
-Contribute to architecture decisions and technical design discussions
+Participate in code reviews, architecture discussions, and team-wide technical planning.
 
-Participate in code reviews, testing, and CI/CD automation
+Build internal tools that enhance developer productivity and automate workflows.
 
-Required Qualifications
+What We’re Looking For
 
-5+ years professional experience in software engineering
+BS or MS in Computer Science, Engineering, or related field (completed by June 2025).
 
-Strong proficiency in Java, Spring Boot, JPA/Hibernate, and REST APIs
+Strong foundation in data structures, algorithms, and systems programming.
 
-Hands-on experience with JavaScript, TypeScript, React, or Angular
+Experience with at least one of: Python, Java, TypeScript/Node.js, Go, or C++.
 
-Experience with AWS, Docker, or Kubernetes
+Understanding of distributed systems, APIs, databases, or cloud-native development.
 
-Knowledge of relational databases (MySQL/PostgreSQL)
+Ability to break complex problems into clean, maintainable solutions.
 
-Understanding of microservices, distributed systems, and event-driven architecture
+Strong communication and willingness to work collaboratively on cross-functional teams.
 
 Nice to Have
 
-Experience with Kafka, RabbitMQ, or other message queues
+Experience with cloud platforms (AWS, GCP, Azure) or containerization (Docker, Kubernetes).
 
-CI/CD using GitHub Actions, Jenkins, or GitLab
+Familiarity with React, Next.js, or modern frontend frameworks.
 
-Experience working with offshore teams
+Hands-on experience with ML pipelines, data engineering, or large-scale system design.
 
-Familiarity with Agile methodologies
+Internship or project experience in a production-like environment.
+
+Why Join Us
+
+Work on meaningful, high-impact systems used by thousands of customers.
+
+Mentorship from senior engineers and clear growth pathways.
+
+Competitive salary, equity, benefits, and wellness support.
+
+A team that values craftsmanship, curiosity, and continuous learning.
+
+Inclusive and human-centered engineering culture.
+
+How to Apply
+
+Submit your résumé, GitHub/portfolio link, and a brief note about a technical project you’re proud of.
 """
 
-top10 = rank_resumes(job_posting, top_k=10, alpha=0.7)
+top10 = rank_resumes(job_posting, top_k=1, alpha=0.9)
 print(top10.to_string(index=False))
