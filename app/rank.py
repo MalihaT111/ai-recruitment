@@ -20,12 +20,12 @@ from feature_extractors import (
 # Load data and models
 RESUME_CSV_PATH = "../data/original/resumes_cleaned.csv"
 RESUME_EMB_PATH = "../data/embeddings/resume_emb_e5_large.npy"
-MODEL_PATH = "../models/model_gradient_boosting.pkl"
+MODEL_PATH = "../models/model_random_forest.pkl"  # Changed to Random Forest
 
 print("Loading resumes and embeddings...")
 resume_df = pd.read_csv(RESUME_CSV_PATH)
-if "Resume_clean" in resume_df.columns:
-    resume_df["Resume_clean"] = resume_df["Resume_clean"].astype(str)
+resume_texts = resume_df["Resume_clean"].fillna("").astype(str).tolist()  # For matching
+resume_originals = resume_df["Resume_str"].fillna("").astype(str).tolist()  # For display
 resume_emb = np.load(RESUME_EMB_PATH)
 
 print("Loading model...")
@@ -42,7 +42,7 @@ MODEL_FEATURES = [
     "domain_match",
 ]
 
-def rank_resumes_for_job(job_text: str, top_k: int = 10, alpha: float = 0.4) -> pd.DataFrame:
+def rank_resumes_for_job(job_text: str, top_k: int = 10, alpha: float = 0.8) -> pd.DataFrame:
     job_clean = clean_text_for_domain(job_text)
     job_vec = embedder.encode(job_clean, convert_to_numpy=True)
 
@@ -50,7 +50,7 @@ def rank_resumes_for_job(job_text: str, top_k: int = 10, alpha: float = 0.4) -> 
 
     rows = []
 
-    for r_idx, resume_text_raw in enumerate(resume_df["Resume_clean"]):
+    for r_idx, resume_text_raw in enumerate(resume_texts):
         resume_clean = clean_text_for_domain(resume_text_raw)
 
         kw = keyword_overlap(job_clean, resume_clean)
@@ -74,16 +74,12 @@ def rank_resumes_for_job(job_text: str, top_k: int = 10, alpha: float = 0.4) -> 
         cos_sim = float(cos_sims[r_idx])
         final_score = alpha * ml_prob + (1 - alpha) * cos_sim
 
-        raw_text = resume_df.iloc[r_idx]["Resume_clean"]
-        text_str = "" if pd.isna(raw_text) else str(raw_text)
-        snippet = text_str[:400]
-
         rows.append({
             "resume_idx": int(r_idx),
             "final_score": final_score,
             "ml_prob": ml_prob,
             "cos_sim": cos_sim,
-            "resume_text": snippet,
+            "resume_text": resume_originals[r_idx],  # Original resume text
         })
 
     out = pd.DataFrame(rows).sort_values("final_score", ascending=False).head(top_k)
