@@ -42,7 +42,7 @@ MODEL_FEATURES = [
     "domain_match",
 ]
 
-def rank_resumes_for_job(job_text: str, top_k: int = 10, alpha: float = 0.7) -> pd.DataFrame:
+def rank_resumes_for_job(job_text: str, top_k: int = 10, alpha: float = 0.4) -> pd.DataFrame:
     job_clean = clean_text_for_domain(job_text)
     job_vec = embedder.encode(job_clean, convert_to_numpy=True)
 

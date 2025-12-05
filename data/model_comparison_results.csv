@@ -1,0 +1,2 @@
+Model,Train Time (s),Inference Time (s),ROC-AUC,Avg Precision,P@10,R@10,MAP@10,NDCG@10
+Gradient Boosting,11.2572,0.0959,0.8579,0.6893,0.4498,0.8995,0.3819,0.8578
