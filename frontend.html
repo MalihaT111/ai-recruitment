@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Recruitment - Resume Ranking</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, sans-serif;
+            background: #f5f5f5;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 30px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 30px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: #555;
+        }
+
+        textarea, input {
+            width: 100%;
+            padding: 10px;
+            border: 2px solid #ddd;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        textarea {
+            height: 120px;
+            resize: vertical;
+        }
+
+        .params {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+        }
+
+        button {
+            background: #007bff;
+            color: white;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            width: 100%;
+        }
+
+        button:hover {
+            background: #0056b3;
+        }
+
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+        }
+
+        .loading {
+            text-align: center;
+            color: #666;
+            margin: 20px 0;
+            display: none;
+        }
+
+        .results {
+            margin-top: 30px;
+            display: none;
+        }
+
+        .result-item {
+            background: #f8f9fa;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+
+        .result-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .resume-id {
+            background: #007bff;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 3px;
+            font-size: 12px;
+        }
+
+        .score {
+            font-size: 18px;
+            font-weight: bold;
+            color: #28a745;
+        }
+
+        .score-details {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin: 10px 0;
+            font-size: 12px;
+            color: #666;
+        }
+
+        .resume-text {
+            background: white;
+            padding: 10px;
+            border-left: 3px solid #007bff;
+            font-family: monospace;
+            font-size: 12px;
+            max-height: 100px;
+            overflow-y: auto;
+        }
+
+        .error {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 20px;
+            display: none;
+        }
+
+        @media (max-width: 600px) {
+            .params {
+                grid-template-columns: 1fr;
+            }
+            .score-details {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>AI-Recruitment</h1>
+        
+        <form id="rankForm">
+            <div class="form-group">
+                <label for="jobDesc">Job Description:</label>
+                <textarea id="jobDesc" placeholder="Enter job description here..." required></textarea>
+            </div>
+
+            <div class="params">
+                <div class="form-group">
+                    <label for="topK">Top Results:</label>
+                    <input type="number" id="topK" value="10" min="1" max="50">
+                </div>
+            </div>
+
+            <button type="submit" id="submitBtn">Rank Resumes</button>
+        </form>
+
+        <div id="loading" class="loading">Processing...</div>
+        <div id="error" class="error"></div>
+        
+        <div id="results" class="results">
+            <h2>Results:</h2>
+            <div id="resultsContainer"></div>
+        </div>
+    </div>
+
+    <script>
+        const form = document.getElementById('rankForm');
+        const loading = document.getElementById('loading');
+        const error = document.getElementById('error');
+        const results = document.getElementById('results');
+        const submitBtn = document.getElementById('submitBtn');
+
+        form.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            
+            const jobDesc = document.getElementById('jobDesc').value;
+            const topK = parseInt(document.getElementById('topK').value);
+            const alpha = 0.8; // Fixed alpha value
+
+            if (!jobDesc.trim()) {
+                showError('Please enter a job description');
+                return;
+            }
+
+            try {
+                showLoading(true);
+                hideError();
+                hideResults();
+
+                const response = await fetch('http://localhost:8000/rank', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        job_description: jobDesc,
+                        top_k: topK,
+                        alpha: alpha
+                    })
+                });
+
+                if (!response.ok) {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+
+                const data = await response.json();
+                displayResults(data);
+
+            } catch (err) {
+                showError(`Error: ${err.message}`);
+            } finally {
+                showLoading(false);
+            }
+        });
+
+        function showLoading(show) {
+            loading.style.display = show ? 'block' : 'none';
+            submitBtn.disabled = show;
+            submitBtn.textContent = show ? 'Processing...' : 'Rank Resumes';
+        }
+
+        function showError(msg) {
+            error.textContent = msg;
+            error.style.display = 'block';
+        }
+
+        function hideError() {
+            error.style.display = 'none';
+        }
+
+        function hideResults() {
+            results.style.display = 'none';
+        }
+
+        function displayResults(data) {
+            const container = document.getElementById('resultsContainer');
+            
+            if (!data || data.length === 0) {
+                container.innerHTML = '<p>No results found.</p>';
+            } else {
+                container.innerHTML = data.map((item, index) => `
+                    <div class="result-item">
+                        <div class="result-header">
+                            <div class="resume-id">Resume #${item.resume_idx}</div>
+                            <div class="score">${(item.final_score * 100).toFixed(1)}%</div>
+                        </div>
+                        <div class="score-details">
+                            <div>Final: ${item.final_score.toFixed(3)}</div>
+                            <div>ML: ${item.ml_prob.toFixed(3)}</div>
+                            <div>Similarity: ${item.cos_sim.toFixed(3)}</div>
+                        </div>
+                        <div class="resume-text">${item.resume_text}</div>
+                    </div>
+                `).join('');
+            }
+            
+            results.style.display = 'block';
+        }
+
+        // Test API connection on load
+        fetch('http://localhost:8000/')
+            .then(response => response.json())
+            .then(data => console.log('API Connected:', data.message))
+            .catch(err => console.error('API Connection Failed:', err));
+    </script>
+</body>
+</html>

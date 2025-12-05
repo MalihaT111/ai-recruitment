@@ -2,10 +2,11 @@ import numpy as np
 import pandas as pd
 import joblib
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from sentence_transformers import SentenceTransformer, util
 
-from .feature_extractors import (
+from feature_extractors import (
     clean_text_for_domain,
     detect_domain,
     skill_match,
@@ -16,9 +17,9 @@ from .feature_extractors import (
 # -------------------------------------------------
 # 1. LOAD ARTIFACTS (same as api_pipeline.py)
 # -------------------------------------------------
-RESUME_CSV_PATH = "data/original/resumes_cleaned.csv"
-RESUME_EMB_PATH = "data/embeddings/resume_emb_e5_large.npy"
-MODEL_PATH = "models/model_gb_tuned.pkl"  # tuned GB model
+RESUME_CSV_PATH = "../data/original/resumes_cleaned.csv"
+RESUME_EMB_PATH = "../data/embeddings/resume_emb_e5_large.npy"
+MODEL_PATH = "../models/model_gradient_boosting.pkl"  # gradient boosting model
 
 print("[API] Loading resumes and embeddings...")
 resume_df = pd.read_csv(RESUME_CSV_PATH)
@@ -110,6 +111,15 @@ def rank_resumes_for_job(job_text: str, top_k: int = 10, alpha: float = 0.7) -> 
 # 3. FASTAPI SETUP
 # -------------------------------------------------
 app = FastAPI(title="AI Recruitment Ranking API")
+
+# Add CORS middleware
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 
 class RankRequest(BaseModel):
